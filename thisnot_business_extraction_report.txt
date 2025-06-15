@@ -6,7 +6,7 @@ Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='02:00 Bayern Monaco - Auckland City', Canale='SporTV'
+  Dettagli: Categoria='CALCIO', Evento='18:00 Bayern Monaco - Auckland City', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
@@ -86,7 +86,7 @@ Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='02:00 Bayern Monaco - Auckland City', Canale='SporTV'
+  Dettagli: Categoria='CALCIO', Evento='18:00 Bayern Monaco - Auckland City', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
@@ -166,7 +166,7 @@ Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='02:00 Bayern Monaco - Auckland City', Canale='SporTV'
+  Dettagli: Categoria='CALCIO', Evento='18:00 Bayern Monaco - Auckland City', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT

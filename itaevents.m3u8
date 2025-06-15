@@ -1169,6 +1169,9 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 #EXTINF:-1 tvg-id="La noche del Ano - Juan Francisco Estrada vs. Karim Arce" tvg-name="04:00 La noche del Ano: Juan Francisco Estrada vs. Karim Arce - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN3 Brazil
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-83.php
 
+#EXTINF:-1 tvg-id="GLORY 100 - GLORY 100" tvg-name="18:00 GLORY 100 - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", DAZN PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-68.php
+
 #EXTINF:-1 tvg-id="KSW 107 - Phil De Fries vs Arkadiusz Wrzosek" tvg-name="20:30 KSW 107 : Phil De Fries vs Arkadiusz Wrzosek - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", KSW PPV
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-69.php
 
@@ -1344,7 +1347,7 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-134.php
 
 #EXTINF:-1 tvg-id="Italy Serie A - Virtus Bologna vs. Pallacanestro Brescia" tvg-name="20:30 Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Eurosport 1 IT
-https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-879.php
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="Italy Serie A - Virtus Bologna vs. Pallacanestro Brescia" tvg-name="20:30 Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Poland
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-129.php
@@ -1684,4 +1687,1288 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 
 #EXTINF:-1 tvg-id="2025 French Swimming Championships - 2025 French Swimming Championships" tvg-name="18:00 2025 French Swimming Championships - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", beIN SPORTS 3 France
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-118.php
+
+#EXTINF:-1 tvg-id="German U-17 Bundesliga - FINAL - Mönchengladbach U-17 v RB Leipzig U-17" tvg-name="13:00 German U-17 Bundesliga - FINAL : Mönchengladbach U-17 v RB Leipzig U-17 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-558.php
+
+#EXTINF:-1 tvg-id="German U-17 Bundesliga - FINAL - Mönchengladbach U-17 v RB Leipzig U-17" tvg-name="13:00 German U-17 Bundesliga - FINAL : Mönchengladbach U-17 v RB Leipzig U-17 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament Third Place - Denmark U20 vs Mexico U20" tvg-name="14:30 Maurice Revello Tournament Third Place : Denmark U20 vs Mexico U20 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament Third Place - Denmark U20 vs Mexico U20" tvg-name="14:30 Maurice Revello Tournament Third Place : Denmark U20 vs Mexico U20 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Brage vs Örgryte" tvg-name="15:00 Sweden - Superettan : Brage vs Örgryte - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 1 Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Trelleborg FF vs Utsikten" tvg-name="15:00 Sweden - Superettan : Trelleborg FF vs Utsikten - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 2 Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-19.php
+
+#EXTINF:-1 tvg-id="Sweden - Ettan - Karlberg vs Stockholm Internazionale" tvg-name="16:00 Sweden - Ettan : Karlberg vs Stockholm Internazionale - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Fotball Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-747.php
+
+#EXTINF:-1 tvg-id="Tanzania Premier League - Young Africans vs Simba" tvg-name="16:00 Tanzania Premier League : Young Africans vs Simba - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azam Sports HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Vestri vs KA" tvg-name="16:00 Iceland - Besta deild karla : Vestri vs KA - 15/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749907812_kamaru-usman-vs-joaquin-buckley.jpg" group-title="Calcio", Stöð 2 Sport 1 Iceland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Women - Portugal U19 vs Spain U19" tvg-name="17:00 UEFA U19 European Championship - Women : Portugal U19 vs Spain U19 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Women - Portugal U19 vs Spain U19" tvg-name="17:00 UEFA U19 European Championship - Women : Portugal U19 vs Spain U19 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Women - England U19 vs Netherlands U19" tvg-name="17:00 UEFA U19 European Championship - Women : England U19 vs Netherlands U19 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Varberg vs Västerås SK" tvg-name="17:00 Sweden - Superettan : Varberg vs Västerås SK - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 3 Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-24.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Channel 5 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-355.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SAT.1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-729.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-415.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Channel 4 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-354.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Kanal A Slovenia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 4 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-116.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport Czech
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-925.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - England U21 vs Slovenia U21" tvg-name="18:00 UEFA Euro U-21 : England U21 vs Slovenia U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 4seven UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-29.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV4 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-117.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Dvojka Slovakia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 MAX Denmark
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-223.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Football
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Finland U21 vs Ukraine U21" tvg-name="18:00 UEFA Euro U-21 : Finland U21 vs Ukraine U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Women - Poland U19 vs Italy U19" tvg-name="18:00 UEFA U19 European Championship - Women : Poland U19 vs Italy U19 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament Final - France U20 vs Saudi Arabia U23" tvg-name="18:00 Maurice Revello Tournament Final : France U20 vs Saudi Arabia U23 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament Final - France U20 vs Saudi Arabia U23" tvg-name="18:00 Maurice Revello Tournament Final : France U20 vs Saudi Arabia U23 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Sporting Cristal vs Deportivo Garcilaso" tvg-name="18:00 Peru - Primera Division : Sporting Cristal vs Deportivo Garcilaso - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LALIGA TV Hypermotion
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-539.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LaLigaTV UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-276.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-799.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 2 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-456.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 7 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-917.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 2 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-72.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 2 Romania
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-401.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 2 Russia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-137.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 3 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Prime Greece
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-638.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Fotball
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-747.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Mirandés vs Real Oviedo" tvg-name="19:00 Spain - Segunda Division : Mirandés vs Real Oviedo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-56.php
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - O'Higgins vs Unión Española" tvg-name="18:30 Chile - Primera Division : O'Higgins vs Unión Española - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium Chile
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-642.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Women - France U19 vs Sweden U19" tvg-name="19:00 UEFA U19 European Championship - Women : France U19 vs Sweden U19 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Norway - OBOS-ligaen - Aalesund vs Stabæk" tvg-name="19:15 Norway - OBOS-ligaen : Aalesund vs Stabæk - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Norway
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - River Plate vs Peñarol" tvg-name="20:00 Uruguay - Primera Division : River Plate vs Peñarol - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", VTV+ Uruguay
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-391.php
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - River Plate vs Peñarol" tvg-name="20:00 Uruguay - Primera Division : River Plate vs Peñarol - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-597.php
+
+#EXTINF:-1 tvg-id="Italian Serie B Soccer - Sampdoria vs. Salernitana" tvg-name="20:30 Italian Serie B Soccer: Sampdoria vs. Salernitana - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="World - Friendly - England XI v Soccer Aid World XI" tvg-name="20:30 World - Friendly : England XI v Soccer Aid World XI - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ITV 1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-350.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Novorizontino vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Novorizontino vs Cuiabá - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Coquimbo Unido vs Universidad Chile" tvg-name="21:00 Chile - Primera Division : Coquimbo Unido vs Universidad Chile - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium Chile
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-642.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-338.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", truTV USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-341.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Italia 1 IT
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Telecinco Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-532.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVI Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-723.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TF1 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-469.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro TV Romania
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-476.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-478.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Univision
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-132.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-415.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 4seven UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-29.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-117.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Dvojka Slovakia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro Arena Romania
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-925.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Netherlands U21 vs Denmark U21" tvg-name="21:00 UEFA Euro U-21 : Netherlands U21 vs Denmark U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport Czech
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-116.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 3 Greece
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 5 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-383.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Duna World Hungry
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 Mexico
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-926.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Football
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Czechia U21 vs Germany U21" tvg-name="21:00 UEFA Euro U-21 : Czechia U21 vs Germany U21 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileiro Feminino - Internacional RS vs Corinthians" tvg-name="21:00 Brazil - Brasileiro Feminino : Internacional RS vs Corinthians - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV2 BR
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Fram vs FH" tvg-name="21:15 Iceland - Besta deild karla : Fram vs FH - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Stöð 2 Sport 5 Iceland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Afturelding vs ÍA" tvg-name="21:15 Iceland - Besta deild karla : Afturelding vs ÍA - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Stöð 2 Sport 1 Iceland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="NWSL - Portland Thorns vs Washington Spirit" tvg-name="22:00 NWSL : Portland Thorns vs Washington Spirit - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="NWSL - Portland Thorns vs Washington Spirit" tvg-name="22:00 NWSL : Portland Thorns vs Washington Spirit - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-52.php
+
+#EXTINF:-1 tvg-id="NWSL - Portland Thorns vs Washington Spirit" tvg-name="22:00 NWSL : Portland Thorns vs Washington Spirit - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBSNY USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-767.php
+
+#EXTINF:-1 tvg-id="Canadian Premier League - Vancouver FC vs Forge" tvg-name="22:00 Canadian Premier League : Vancouver FC vs Forge - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Ayacucho vs Universitario" tvg-name="22:00 Peru - Primera Division : Ayacucho vs Universitario - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Ayacucho vs Universitario" tvg-name="22:00 Peru - Primera Division : Ayacucho vs Universitario - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="USL League One - Portland Hearts of Pine vs Union Omaha" tvg-name="00:00 USL League One : Portland Hearts of Pine vs Union Omaha - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NESN USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-762.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro Arena Romania
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Porto" tvg-name="00:00 FIFA Club World Cup : Palmeiras vs Porto - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Live Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Network USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-550.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-799.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Univision
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-132.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-379.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-85.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Trinidad and Tobago" tvg-name="00:00 CONCACAF Gold Cup : USA vs Trinidad and Tobago - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="USL W-League - Erie Sports Center FC vs Pittsburgh Riveters" tvg-name="00:00 USL W-League : Erie Sports Center FC vs Pittsburgh Riveters - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SportsNet Pittsburgh
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-922.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Binacional vs Alianza Universidad" tvg-name="00:30 Peru - Primera Division : Binacional vs Alianza Universidad - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="USL League One - Westchester SC vs Alta" tvg-name="01:00 USL League One : Westchester SC vs Alta - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MSG USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-765.php
+
+#EXTINF:-1 tvg-id="Canadian Premier League - Atlético Ottawa vs Valour" tvg-name="01:00 Canadian Premier League : Atlético Ottawa vs Valour - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-112.php
+
+#EXTINF:-1 tvg-id="Canadian Premier League - Atlético Ottawa vs Valour" tvg-name="01:00 Canadian Premier League : Atlético Ottawa vs Valour - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - CA Independiente Medellín vs Deportes Tolima" tvg-name="01:15 Colombia - Primera A : CA Independiente Medellín vs Deportes Tolima - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Ñublense vs Audax Italiano" tvg-name="02:00 Chile - Primera Division : Ñublense vs Audax Italiano - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium Chile
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-642.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-550.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-799.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOL PLAY Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-530.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Univision
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-132.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-379.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Haiti vs Saudi Arabia" tvg-name="02:15 CONCACAF Gold Cup : Haiti vs Saudi Arabia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - CA Junior De Barranquilla vs CA AmériCA De Cali" tvg-name="03:20 Colombia - Primera A : CA Junior De Barranquilla vs CA AmériCA De Cali - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Grandstand
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-412.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MáXimo 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Botafogo vs Seattle Sounders FC" tvg-name="04:00 FIFA Club World Cup : Botafogo vs Seattle Sounders FC - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Live Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-550.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-799.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-379.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Costa Rica vs Suriname" tvg-name="05:00 CONCACAF Gold Cup : Costa Rica vs Suriname - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="FIH Pro League - India vs Australia" tvg-name="10:30 FIH Pro League : India vs Australia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Hockey Su Prato", SuperSport Variety 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-417.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - Belgium W vs Germany W" tvg-name="13:00 FIH Pro League Women : Belgium W vs Germany W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Hockey Su Prato", Magenta Sport
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - Belgium W vs Germany W" tvg-name="13:00 FIH Pro League Women : Belgium W vs Germany W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Hockey Su Prato", SuperSport Variety 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-417.php
+
+#EXTINF:-1 tvg-id="FIH Pro League - England vs Germany" tvg-name="13:45 FIH Pro League : England vs Germany - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Hockey Su Prato", Magenta Sport
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - England W vs Argentina W" tvg-name="16:00 FIH Pro League Women : England W vs Argentina W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Hockey Su Prato", ESPN Argentina
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Diallo G." tvg-name="14:30 ATP - HERTOGENBOSCH : Bergs Z. vs Diallo G. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream 9
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Diallo G." tvg-name="14:30 ATP - HERTOGENBOSCH : Bergs Z. vs Diallo G. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream 7
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Zverev A. vs Fritz T. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream 6
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Zverev A. vs Fritz T. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream 8
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Mertens E." tvg-name="12:00 WTA - HERTOGENBOSCH : Ruse G. vs Mertens E. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream 3
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Anisimova A. vs Maria T." tvg-name="14:30 WTA - LONDON : Anisimova A. vs Maria T. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 2 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-117.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7 HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-628.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-884.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-915.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 7 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-917.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 35 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-383.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-491.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-492.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-713.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Libema Open - Final - Libema Open - Final" tvg-name="12:00 Libema Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 2 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-117.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7 HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-628.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-884.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-915.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 7 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-917.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 35 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-383.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-491.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-492.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-713.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="ATP 250 2025 BOSS Open - Final - ATP 250 2025 BOSS Open - Final" tvg-name="14:30 ATP 250 2025 BOSS Open - Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="Australia Supercars Championship LIVE - Darwin Triple Crown" tvg-name="03:15 Australia Supercars Championship LIVE: Darwin Triple Crown - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sportdigital+ 1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="Australia Supercars Championship LIVE - Darwin Triple Crown" tvg-name="06:35 Australia Supercars Championship LIVE: Darwin Triple Crown - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sportdigital+ 1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 3 - FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 3" tvg-name="07:00 FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 4 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-34.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 9" tvg-name="08:00 European Rally Championship Poland: Stage 9 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-607.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 9" tvg-name="08:00 European Rally Championship Poland: Stage 9 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-702.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 9" tvg-name="08:00 European Rally Championship Poland: Stage 9 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 10" tvg-name="09:05 European Rally Championship Poland: Stage 10 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-607.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 10" tvg-name="09:05 European Rally Championship Poland: Stage 10 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-702.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 10" tvg-name="09:05 European Rally Championship Poland: Stage 10 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 11" tvg-name="10:30 European Rally Championship Poland: Stage 11 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 8 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-214.php
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano | Superpole - WorldSBK | Round 6 | Misano | Superpole" tvg-name="10:30 WorldSBK | Round 6 | Misano | Superpole - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano | Superpole - WorldSBK | Round 6 | Misano | Superpole" tvg-name="10:30 WorldSBK | Round 6 | Misano | Superpole - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-445.php
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano | Superpole - WorldSBK | Round 6 | Misano | Superpole" tvg-name="10:30 WorldSBK | Round 6 | Misano | Superpole - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 4 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-591.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 12" tvg-name="12:40 European Rally Championship Poland: Stage 12 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-607.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 12" tvg-name="12:40 European Rally Championship Poland: Stage 12 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-702.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 12" tvg-name="12:40 European Rally Championship Poland: Stage 12 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="FIA WEC | 24 Hours of Le Mans Career | Part 5 - FIA WEC | 24 Hours of Le Mans Career | Part 5" tvg-name="13:00 FIA WEC | 24 Hours of Le Mans Career | Part 5 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motor Trend
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-661.php
+
+#EXTINF:-1 tvg-id="WorldSSP300 | Round 6 | Misano Race 2 - WorldSSP300 | Round 6 | Misano Race 2" tvg-name="14:50 WorldSSP300 | Round 6 | Misano Race 2 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="WorldSSP300 | Round 6 | Misano Race 2 - WorldSSP300 | Round 6 | Misano Race 2" tvg-name="14:50 WorldSSP300 | Round 6 | Misano Race 2 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-445.php
+
+#EXTINF:-1 tvg-id="WorldSSP300 | Round 6 | Misano Race 2 - WorldSSP300 | Round 6 | Misano Race 2" tvg-name="14:50 WorldSSP300 | Round 6 | Misano Race 2 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 4 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-591.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 14" tvg-name="16:05 European Rally Championship Poland: Stage 14 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-607.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 14" tvg-name="16:05 European Rally Championship Poland: Stage 14 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 8 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-214.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 14" tvg-name="16:05 European Rally Championship Poland: Stage 14 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-702.php
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 14" tvg-name="16:05 European Rally Championship Poland: Stage 14 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="F1 Academy - Canada Race 3" tvg-name="17:00 F1 Academy : Canada Race 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-60.php
+
+#EXTINF:-1 tvg-id="F1 Academy - Canada Race 3" tvg-name="17:00 F1 Academy : Canada Race 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="F1 Academy - Canada Race 3" tvg-name="17:00 F1 Academy : Canada Race 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-537.php
+
+#EXTINF:-1 tvg-id="F1 Academy - Canada Race 3" tvg-name="17:00 F1 Academy : Canada Race 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-122.php
+
+#EXTINF:-1 tvg-id="F1 Academy - Canada Race 3" tvg-name="17:00 F1 Academy : Canada Race 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-60.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN5
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-274.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-537.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-121.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Formula 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-273.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 3 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-590.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-774.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-272.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3+ Denmark
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-819.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Deportes
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Grand Prix Sunday" tvg-name="19:00 Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 MX
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-929.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-60.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ABC NY USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-766.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ABC USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-51.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN5
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-274.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-537.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-121.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Formula 1
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-273.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 3 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-590.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-774.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3+ Denmark
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-819.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Band Tv Brasil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-30.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6 Cyprus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-272.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Race" tvg-name="20:00 Formula 1 : Pirelli Canadian Grand Prix - Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 MX
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-929.php
+
+#EXTINF:-1 tvg-id="FIM Speedway GP | Round 5 | Manchester Heats & Final - FIM Speedway GP | Round 5 | Manchester Heats & Final" tvg-name="19:30 FIM Speedway GP | Round 5 | Manchester Heats & Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN3
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3 Sport Denmark
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-563.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena 3 Premium Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series - Viva Mexico 250" tvg-name="21:00 NASCAR Cup Series: Viva Mexico 250 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub HD Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Indy NXT Series World Wide Technology Raceway - Indy NXT Series World Wide Technology Raceway" tvg-name="22:30 Indy NXT Series World Wide Technology Raceway - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-60.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", FOX USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", FOXNY USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN3
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN5
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", M+ #Vamos Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-521.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3 Sport Denmark
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 4 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 2 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-589.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-272.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season The Bommarito Automotive Group 500 Race - IndyCar Series Season The Bommarito Automotive Group 500 Race" tvg-name="02:00 IndyCar Series Season The Bommarito Automotive Group 500 Race - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-85.php
+
+#EXTINF:-1 tvg-id="World Judo Championships Qualifiers - World Judo Championships Qualifiers" tvg-name="10:30 World Judo Championships Qualifiers - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", M4 Sport Hungary
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="World Judo Championships Qualifiers - World Judo Championships Qualifiers" tvg-name="10:30 World Judo Championships Qualifiers - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", 5 Sport Plus Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 3. Final Rounds." tvg-name="18:00 Judo: World Championships World Championships. Day 3. Final Rounds. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", RMC Sport 1 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-119.php
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 3. Final Rounds." tvg-name="18:00 Judo: World Championships World Championships. Day 3. Final Rounds. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", Match Box Russia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-395.php
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 3. Final Rounds." tvg-name="18:00 Judo: World Championships World Championships. Day 3. Final Rounds. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", Match TV Russia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 3. Final Rounds." tvg-name="18:00 Judo: World Championships World Championships. Day 3. Final Rounds. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", Sportv3 Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-80.php
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 3. Final Rounds." tvg-name="18:00 Judo: World Championships World Championships. Day 3. Final Rounds. - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports", 5 Sport Plus Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="European League of Football - Berlin Thunder vs Fehervar Enthroners" tvg-name="13:00 European League of Football : Berlin Thunder vs Fehervar Enthroners - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ProSieben MAXX DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="European League of Football - Munich Ravens vs Helvetic Mercenaries" tvg-name="16:25 European League of Football : Munich Ravens vs Helvetic Mercenaries - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ProSieben MAXX DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="Arena Football One - Southwest Kansas Storm vs Salina Liberty" tvg-name="00:30 Arena Football One : Southwest Kansas Storm vs Salina Liberty - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", VICE TV USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-659.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", BBC Two UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-357.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Movistar Deportes 2 Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-438.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Polsat Sport 1 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Sport TV6 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Sportv2 Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Arena Sport 3 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-434.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Arena Sport 3 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-431.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Ziggo Sport 3 NL
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium" tvg-name="18:00 IAAF Diamond League Live BAUHAUS-galan - Stockholm Olympic Stadium - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Sport 3 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="NBL - Franklin Bulls at Southland Sharks" tvg-name="08:30 NBL : Franklin Bulls at Southland Sharks - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sky Sport 4 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-591.php
+
+#EXTINF:-1 tvg-id="FIBA 3x3 World Tour - Vienna, quarterfinals, semifinals and finals" tvg-name="13:55 FIBA 3x3 World Tour : Vienna, quarterfinals, semifinals and finals - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 6 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-941.php
+
+#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="16:30 LNB : Paris vs Monaco - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", DAZN1 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="16:30 LNB : Paris vs Monaco - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="LNB - Paris vs Monaco" tvg-name="16:30 LNB : Paris vs Monaco - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 3 Premium Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-436.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Canal+ Sport Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-48.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportdigital+ DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 4 Greece
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-625.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Premium 2 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", DAZN Eleven 3 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-457.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Diema Sport 2 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-466.php
+
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 2 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Germany BBL - Bayern München vs Ratiopharm Ulm" tvg-name="18:00 Germany BBL : Bayern München vs Ratiopharm Ulm - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", DYN DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="Germany BBL - Bayern München vs Ratiopharm Ulm" tvg-name="18:00 Germany BBL : Bayern München vs Ratiopharm Ulm - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 1 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Chicago Sky W" tvg-name="18:00 WNBA : Connecticut Sun W vs Chicago Sky W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CBSNY USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-767.php
+
+#EXTINF:-1 tvg-id="Basketball - Tbc - Game 3" tvg-name="19:00 Basketball: Tbc - Game 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", DAZN Eleven 3 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-457.php
+
+#EXTINF:-1 tvg-id="Israeli League - Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem" tvg-name="19:50 Israeli League: Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", 5 Sport Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="Israeli League - Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem" tvg-name="19:50 Israeli League: Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="CEBL Basketball - Niagara River Lions vs Ottawa BlackJacks" tvg-name="20:00 CEBL Basketball : Niagara River Lions vs Ottawa BlackJacks - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-112.php
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="20:00 WNBA : Washington Mystics W vs Atlanta Dream W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Monumental Sports Network
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-778.php
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="20:00 WNBA : Washington Mystics W vs Atlanta Dream W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CBS Sports Network USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="KLS - Partizan Mozzart bet vs FMP Soccerbet, G1" tvg-name="20:30 KLS : Partizan Mozzart bet vs FMP Soccerbet, G1 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Premium 1 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Serie A2 2024/2025-Playoff - Final - possible game 4" tvg-name="20:40 Serie A2 2024/2025-Playoff: Final - possible game 4 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Rai Sports 1 IT
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="F. Praia - Women's Final - EURO Winner S Cup" tvg-name="18:30 F. Praia: Women's Final - EURO Winner S Cup - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer", Sport TV5 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-290.php
+
+#EXTINF:-1 tvg-id="F. Praia - Men's Final - EURO Winner S Cup" tvg-name="20:00 F. Praia: Men's Final - EURO Winner S Cup - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer", Sport TV5 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-290.php
+
+#EXTINF:-1 tvg-id="Surf - Ribeira Grande Pro - 3rd Day - MEO Surf League" tvg-name="08:00 Surf: Ribeira Grande Pro - 3rd Day - MEO Surf League - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating", Sport TV6 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", TNT Sports 2 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 2 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-58.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 2 Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-525.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 2 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-773.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", Eurosport 2 SE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 2 Italy
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 2 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-773.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 2 Greece
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-42.php
+
+#EXTINF:-1 tvg-id="World Cup | Men Bern | Bouldering | Final - World Cup | Men Bern | Bouldering | Final" tvg-name="17:00 World Cup | Men Bern | Bouldering | Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", Eurosport 2 SE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="Liga SportZone - Sporting vs Benfica" tvg-name="19:00 Liga SportZone : Sporting vs Benfica - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Canal 11 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="GAA All-Ireland Senior Championship - Cork vs Clare - GAA All-Ireland Senior Championship - Cork vs Clare" tvg-name="14:00 GAA All-Ireland Senior Championship - Cork vs Clare - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Gaa", TG4
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="GAA All-Ireland Senior Championship - Monaghan vs Down - GAA All-Ireland Senior Championship - Monaghan vs Down" tvg-name="15:00 GAA All-Ireland Senior Championship - Monaghan vs Down - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Gaa", RTE 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-365.php
+
+#EXTINF:-1 tvg-id="GAA All-Ireland Senior Championship - Donegal vs Mayo - GAA All-Ireland Senior Championship - Donegal vs Mayo" tvg-name="17:00 GAA All-Ireland Senior Championship - Donegal vs Mayo - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Gaa", RTE 2
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-365.php
+
+#EXTINF:-1 tvg-id="Suncorp Super Netball - Melbourne Vixens W vs New South Wales Swifts W" tvg-name="06:00 Suncorp Super Netball : Melbourne Vixens W vs New South Wales Swifts W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Netball", Sky Sport 1 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-588.php
+
+#EXTINF:-1 tvg-id="National Rugby League - South Sydney Rabbitohs vs Canterbury Bulldogs" tvg-name="08:05 National Rugby League : South Sydney Rabbitohs vs Canterbury Bulldogs - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="National Rugby League - South Sydney Rabbitohs vs Canterbury Bulldogs" tvg-name="08:05 National Rugby League : South Sydney Rabbitohs vs Canterbury Bulldogs - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", beIN Sports 1 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-116.php
+
+#EXTINF:-1 tvg-id="National Rugby League - South Sydney Rabbitohs vs Canterbury Bulldogs" tvg-name="08:05 National Rugby League : South Sydney Rabbitohs vs Canterbury Bulldogs - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Action UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-37.php
+
+#EXTINF:-1 tvg-id="National Rugby League - South Sydney Rabbitohs vs Canterbury Bulldogs" tvg-name="08:05 National Rugby League : South Sydney Rabbitohs vs Canterbury Bulldogs - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Main Event
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-38.php
+
+#EXTINF:-1 tvg-id="National Rugby League - South Sydney Rabbitohs vs Canterbury Bulldogs" tvg-name="08:05 National Rugby League : South Sydney Rabbitohs vs Canterbury Bulldogs - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sport 2 NZ
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-589.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Wakefield Trinity vs Leigh Centurions" tvg-name="15:30 Super League Rugby : Wakefield Trinity vs Leigh Centurions - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", BBC Two UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-357.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Wakefield Trinity vs Leigh Centurions" tvg-name="15:30 Super League Rugby : Wakefield Trinity vs Leigh Centurions - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Wakefield Trinity vs Leigh Centurions" tvg-name="15:30 Super League Rugby : Wakefield Trinity vs Leigh Centurions - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sportsnet World
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-410.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Wakefield Trinity vs Leigh Centurions" tvg-name="15:30 Super League Rugby : Wakefield Trinity vs Leigh Centurions - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sportdigital+ DE
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="Major League Rugby Conference Semifinal - Miami Sharks vs New England Free Jacks" tvg-name="20:00 Major League Rugby Conference Semifinal: Miami Sharks vs New England Free Jacks - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", NBCS Boston
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-754.php
+
+#EXTINF:-1 tvg-id="Major League Rugby Conference Semifinal - RFC Los Angeles vs Houston SaberCats" tvg-name="02:30 Major League Rugby Conference Semifinal: RFC Los Angeles vs Houston SaberCats - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", FanDuel Sports Network SoCal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-902.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Women's Final" tvg-name="18:30 Premier Padel. Italy (T2025): Women's Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Movistar Deportes 3 Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-526.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Women's Final" tvg-name="18:30 Premier Padel. Italy (T2025): Women's Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", M+ #Vamos Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-521.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Men's Final" tvg-name="20:30 Premier Padel. Italy (T2025): Men's Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Movistar Deportes 3 Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-526.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Men's Final" tvg-name="20:30 Premier Padel. Italy (T2025): Men's Final - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", M+ #Vamos Spain
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-521.php
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs. Japan" tvg-name="05:30 Nations League : Netherlands vs. Japan - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs. Japan" tvg-name="05:30 Nations League : Netherlands vs. Japan - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs. Turkiye" tvg-name="09:00 Nations League : China vs. Turkiye - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs. Turkiye" tvg-name="09:00 Nations League : China vs. Turkiye - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena 3 Premium Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs. Turkiye" tvg-name="09:00 Nations League : China vs. Turkiye - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs. Serbia" tvg-name="13:00 Nations League : Poland vs. Serbia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs. Serbia" tvg-name="13:00 Nations League : Poland vs. Serbia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena 1 Premium Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs. Serbia" tvg-name="13:00 Nations League : Poland vs. Serbia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs. Serbia" tvg-name="13:00 Nations League : Poland vs. Serbia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Slovenia" tvg-name="15:00 Nations League : Brazil vs. Slovenia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Slovenia" tvg-name="15:00 Nations League : Brazil vs. Slovenia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 2 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Slovenia" tvg-name="15:00 Nations League : Brazil vs. Slovenia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 4 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Slovenia" tvg-name="15:00 Nations League : Brazil vs. Slovenia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Slovenia" tvg-name="15:00 Nations League : Brazil vs. Slovenia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs. Italy" tvg-name="17:00 Nations League : Argentina vs. Italy - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 3 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-129.php
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs. Italy" tvg-name="17:00 Nations League : Argentina vs. Italy - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 2 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-430.php
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs. Italy" tvg-name="17:00 Nations League : Argentina vs. Italy - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Iran" tvg-name="18:30 Nations League : Ukraine vs. Iran - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Iran" tvg-name="18:30 Nations League : Ukraine vs. Iran - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 4 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs. France" tvg-name="20:30 Nations League : Germany vs. France - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs. France" tvg-name="20:30 Nations League : Germany vs. France - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 1 Serbia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. USA" tvg-name="22:00 Nations League : Cuba vs. USA - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. USA" tvg-name="22:00 Nations League : Cuba vs. USA - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. USA" tvg-name="22:00 Nations League : Cuba vs. USA - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Canada" tvg-name="00:00 Nations League : Bulgaria vs. Canada - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Canada" tvg-name="00:00 Nations League : Bulgaria vs. Canada - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Canada" tvg-name="00:00 Nations League : Bulgaria vs. Canada - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="European Golden League - Portugal vs. Israel" tvg-name="16:00 European Golden League : Portugal vs. Israel - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport TV2 Portugal
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="European Golden League - Portugal vs. Israel" tvg-name="16:00 European Golden League : Portugal vs. Israel - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport 3 Israel
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="European Golden League - Croatia vs. Romania" tvg-name="19:30 European Golden League : Croatia vs. Romania - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="European Golden League Women - Ukraine vs. Slovakia" tvg-name="16:00 European Golden League Women : Ukraine vs. Slovakia - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", JOJ Sport Slovakia HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="European Golden League Women - Croatia vs. Romania" tvg-name="16:30 European Golden League Women : Croatia vs. Romania - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 2 Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="European Golden League Women - Hungary vs. Portugal" tvg-name="18:00 European Golden League Women : Hungary vs. Portugal - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport TV2 Portugal HD
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="European Golden League Women - Slovenia vs Spain" tvg-name="18:00 European Golden League Women : Slovenia vs Spain - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub HD Croatia
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Silver League Women - Austria vs. Switzerland" tvg-name="17:35 Silver League Women : Austria vs. Switzerland - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", ORF Sport Plus
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="Rowing - World Cup competition in Varese finals" tvg-name="10:30 Rowing: World Cup competition in Varese finals - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", TVP Sport Poland
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="2025 French Swimming Championships - 2025 French Swimming Championships" tvg-name="17:00 2025 French Swimming Championships - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", beIN Sports 3 France
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-118.php
+
+#EXTINF:-1 tvg-id="IPF World Open Classic Powerlifting Championships - Women's 84+kg and Men's 120+kg - IPF World Open Classic Powerlifting Championships - Women's 84+kg and Men's 120+kg" tvg-name="14:00 IPF World Open Classic Powerlifting Championships - Women's 84+kg and Men's 120+kg - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi", CBS Sports Network USA
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="IPF World Open Classic Powerlifting Championships - Women's 84+kg and Men's 120+kg - IPF World Open Classic Powerlifting Championships - Women's 84+kg and Men's 120+kg" tvg-name="14:00 IPF World Open Classic Powerlifting Championships - Women's 84+kg and Men's 120+kg - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi", TNT Sports 6 UK
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-212.php
 

@@ -1,28 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=MBCaction": {
-    "proxy_url": "https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE B PLAYOUT - ITALIA",
-      "date": "DOMENICA 22 GIUGNO (RITORNO)",
-      "event": "18:00 Benfica - Auckland City",
-      "channel": "MBC",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=MBCaction"
-    }
-  },
-  "https://thisnot.business/player.php?id=Italia1_IT": {
-    "proxy_url": "https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE B PLAYOUT - ITALIA",
-      "date": "DOMENICA 22 GIUGNO (RITORNO)",
-      "event": "21:00 Flamengo - Chelsea",
-      "channel": "Mediaset",
-      "language": "sa",
-      "url": "https://thisnot.business/player.php?id=Italia1_IT"
-    }
-  },
   "https://thisnot.business/player.php?id=SAT1": {
     "proxy_url": "https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4",
     "info": {
@@ -31,7 +7,7 @@
       "date": "DOMENICA 22 GIUGNO (RITORNO)",
       "event": "18:00 Mamelodi Sundowns - Borussia Dortmund",
       "channel": "SAT.1",
-      "language": "de",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=SAT1"
     }
   },
@@ -57,6 +33,18 @@
       "channel": "CazeTV",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=CazeTV_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=Italia1_IT": {
+    "proxy_url": "https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE B PLAYOUT - ITALIA",
+      "date": "DOMENICA 22 GIUGNO (RITORNO)",
+      "event": "18:00 Juventus - Wydad Casablanca",
+      "channel": "Mediaset",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Italia1_IT"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -101,10 +89,22 @@
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
       "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
-      "event": "16:10 Etcheverry v Khachanov",
+      "event": "16:10 Bublik v Khachanov",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
+    }
+  },
+  "https://thisnot.business/player.php?id=ITA_SportArena": {
+    "proxy_url": "https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysportarena%29/master_2hr-aac.mpd%3F%26ck%3DMTExNWY5MGE2ODMxZmE3Y2EwNThhMzAzODNjYjA2NTI6NmMwODZjMmEwYThkZThjMWY0MTNlNDEyODI0NmFiZGQ%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1115f90a6831fa7ca058a30383cb0652&key=6c086c2a0a8de8c1f413e4128246abdd",
+    "info": {
+      "category": "TENNIS",
+      "title": "ATP/WTA INTERNAZIONALI",
+      "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
+      "event": "15:30 Alcaraz v Bautista",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=ITA_SportArena"
     }
   },
   "https://thisnot.business/player.php?id=ITA_SportMotoGP": {

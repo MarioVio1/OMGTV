@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AMA Supercross Championship Southwick - AMA Supercross Championship Southwick" tvg-name="16:00 AMA Supercross Championship Southwick - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="WWE Night of Champions - WWE Night of Champions" tvg-name="19:00 WWE Night of Champions - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Netflix PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="Polaris 32 - Women's Squads" tvg-name="20:00 Polaris 32: Women's Squads - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="Superbikes Motoamerica Ridge Motorsports - Superbikes Motoamerica Ridge Motorsports" tvg-name="21:00 Superbikes Motoamerica Ridge Motorsports - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="Weekly Racing Fonda Speedway - Weekly Racing Fonda Speedway" tvg-name="00:00 Weekly Racing Fonda Speedway - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="DIRTcar Summer Nationals Late Modles Highland - DIRTcar Summer Nationals Late Modles Highland" tvg-name="00:15 DIRTcar Summer Nationals Late Modles Highland - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Dirtvision
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="Millbridge Speedway Sprint Cars - Millbridge Speedway Sprint Cars" tvg-name="00:15 Millbridge Speedway Sprint Cars - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Normal - World of Outlaws Late Models Normal" tvg-name="01:15 World of Outlaws Late Models Normal - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="01:30 World of Outlaws Sprint Cars - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Tulsa - American Sprint Car Series Tulsa" tvg-name="01:45 American Sprint Car Series Tulsa - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="WR Texas Title Tournament 2025 - WR Texas Title Tournament 2025" tvg-name="03:00 WR Texas Title Tournament 2025 - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="FSW - Scars Stripes 2025" tvg-name="04:00 FSW: Scars Stripes 2025 - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Armored MMA 2025 - Medieval Cage Fighting Championship, Portland O" tvg-name="04:00 Armored MMA 2025: Medieval Cage Fighting Championship, Portland O - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-175.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs UCD" tvg-name="20:30 Ireland Republic - First Division : Longford Town vs UCD - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-151.php
 
@@ -80,52 +119,52 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 #EXTINF:-1 tvg-id="Norway - Eliteserien - Rosenborg vs Viking" tvg-name="18:00 Norway - Eliteserien : Rosenborg vs Viking - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 1 Croatia
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-101.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", TNT USA
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-338.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", truTV USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", truTV USA
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-341.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 France
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", DAZN1 France
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", TRT 1 Turkey
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-3.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ANT1 Greece
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", ANT1 Greece
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-4.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", TUDN USA
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Univision
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", Univision
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-132.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", M4 Sports Hungary
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-265.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-918.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Dsports Argentina
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", Dsports Argentina
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-28.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 2 Digitalb
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", SuperSport 2 Digitalb
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-5.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", SporTV BR
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-78.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", SuperSport Premier League
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-414.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", SuperSport MaXimo 1
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-572.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5Sport Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", 5Sport Israel
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", 5 Live Israel
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
 
 #EXTINF:-1 tvg-id="Iceland - Besta deild karla - KA vs Valur" tvg-name="19:00 Iceland - Besta deild karla : KA vs Valur - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SÝN Sport 1 Iceland
@@ -200,55 +239,55 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 #EXTINF:-1 tvg-id="UEFA Euro U21 - Final : Germany U21 vs England U21" tvg-name="21:00 UEFA Euro U21: Final : Germany U21 vs England U21 - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-142.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Telecinco Spain
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", Telecinco Spain
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-532.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", TRT 1 Turkey
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-3.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ANT1 Greece
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", ANT1 Greece
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-4.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 France
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", DAZN1 France
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 2 Digitalb
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport 2 Digitalb
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-5.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", BNT 1
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-476.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", BNT 3
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-478.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SporTV BR
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-78.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-918.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport Premier League
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-414.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Dsports Argentina
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", Dsports Argentina
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-28.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oneplay Sport 3 CZ
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", Oneplay Sport 3 CZ
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1029.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oneplay Sport 1 CZ
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", Oneplay Sport 1 CZ
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-1027.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport La Liga
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport La Liga
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-415.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport MaXimo 1
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-572.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", 5 Sport Israel
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-144.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", 5 Live Israel
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
 
 #EXTINF:-1 tvg-id="Peru - Primera Division - UTC Cajamarca vs Sport Boys" tvg-name="22:15 Peru - Primera Division : UTC Cajamarca vs Sport Boys - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
@@ -1151,6 +1190,9 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 #EXTINF:-1 tvg-id="Boxing - Avious Griffin vs Julian Rodriguez" tvg-name="00:00 Boxing : Avious Griffin vs Julian Rodriguez - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", DAZN PPV
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-68.php
 
+#EXTINF:-1 tvg-id="Boxing - Jean Pascal vs Michal Cieslak" tvg-name="01:00 Boxing : Jean Pascal vs Michal Cieslak - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", Triller Tv
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-176.php
+
 #EXTINF:-1 tvg-id="Boxing - Jean Pascal vs Michal Cieslak" tvg-name="01:00 Boxing : Jean Pascal vs Michal Cieslak - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", TVP Sport Poland
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-128.php
 
@@ -1159,6 +1201,12 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 
 #EXTINF:-1 tvg-id="Boxing - Jean Pascal vs Michal Cieslak" tvg-name="01:00 Boxing : Jean Pascal vs Michal Cieslak - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN3 Brazil
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-83.php
+
+#EXTINF:-1 tvg-id="Boxing - Jake Paul vs Julio Cesar Chavez Jr" tvg-name="02:00 Boxing : Jake Paul vs Julio Cesar Chavez Jr - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", DAZN PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="Boxing - Jake Paul vs Julio Cesar Chavez Jr" tvg-name="02:00 Boxing : Jake Paul vs Julio Cesar Chavez Jr - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", DAZN PPV
+https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-178.php
 
 #EXTINF:-1 tvg-id="Boxing - Jake Paul vs Julio Cesar Chavez Jr" tvg-name="02:00 Boxing : Jake Paul vs Julio Cesar Chavez Jr - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", DAZN PPV
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-69.php
@@ -1229,37 +1277,37 @@ https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&ap
 #EXTINF:-1 tvg-id="UFC 317 Prelims - Jack Hermansson vs Gregory Rodrigues" tvg-name="02:00 UFC 317 Prelims : Jack Hermansson vs Gregory Rodrigues - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match Box Russia
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-395.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", UFC Fight Pass
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", UFC Fight Pass
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-86.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", TNT Sports 1 UK
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", TNT Sports 1 UK
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match TV Russia
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Match TV Russia
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-127.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Sport TV2 Portugal
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-74.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", RMC Sport 1 France
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", RMC Sport 1 France
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-119.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Polsat Sport 2 Poland
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-50.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Cytavision Sports 7 Cyprus
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Cytavision Sports 7 Cyprus
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-917.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match Box Russia
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Match Box Russia
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-395.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Cosmote Sport 6 HD
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Cosmote Sport 6 HD
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-627.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", MAX Sport 2 Bulgaria
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-473.php
 
-#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="UFC 317 Main Card - Ilia Topuria vs Charles Oliveira" tvg-name="04:00 UFC 317 Main Card : Ilia Topuria vs Charles Oliveira - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107326_ilia-topuria-v-charles-oliveira.jpg" group-title="Mma", Sport 5 Live Israel
 https://mvajro-strava.hf.space/extractor/video?host=DLHD&redirect_stream=true&api_password=Sally&d=https://daddylive.dad/stream/stream-146.php
 
 #EXTINF:-1 tvg-id="European League of Football - Fehervar Enthroners vs. Wroclaw Panthers" tvg-name="15:00 European League of Football : Fehervar Enthroners vs. Wroclaw Panthers - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Polsat Sport Fight Poland HD

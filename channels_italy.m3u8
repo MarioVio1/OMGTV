@@ -63,11 +63,17 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
+https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
+https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -315,9 +321,6 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/178
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -395,6 +398,9 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/122
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/

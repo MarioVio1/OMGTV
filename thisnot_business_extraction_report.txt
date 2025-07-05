@@ -2,10 +2,6 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Danimarca - Svezia', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='18:00 Galles - Olanda', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
@@ -29,32 +25,16 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Portogallo - Italia', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='Mediaset'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
-Pagina Evento: https://thisnot.business/player.php?id=DaznFreeES
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row
-
-Pagina Evento: https://thisnot.business/player.php?id=MBCaction
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='MBC'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Palmeiras - Chelsea', Canale='SporTV'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Dettagli: Categoria='CALCIO', Evento='18:00 PSG - Bayern Monaco', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
-  Dettagli: Categoria='CALCIO', Evento='18:00 Real Madrid - Borussia Dortmund', Canale='Sat.1'
+  Dettagli: Categoria='CALCIO', Evento='22:00 Real Madrid - Borussia Dortmund', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Borussia Dortmund', Canale='Mediaset'
+  Dettagli: Categoria='CALCIO', Evento='22:00 Real Madrid - Borussia Dortmund', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
@@ -62,10 +42,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Danimarca - Svezia', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='18:00 Galles - Olanda', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
@@ -89,32 +65,16 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Portogallo - Italia', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='Mediaset'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
-Pagina Evento: https://thisnot.business/player.php?id=DaznFreeES
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row
-
-Pagina Evento: https://thisnot.business/player.php?id=MBCaction
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='MBC'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Palmeiras - Chelsea', Canale='SporTV'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Dettagli: Categoria='CALCIO', Evento='18:00 PSG - Bayern Monaco', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
-  Dettagli: Categoria='CALCIO', Evento='18:00 Real Madrid - Borussia Dortmund', Canale='Sat.1'
+  Dettagli: Categoria='CALCIO', Evento='22:00 Real Madrid - Borussia Dortmund', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Borussia Dortmund', Canale='Mediaset'
+  Dettagli: Categoria='CALCIO', Evento='22:00 Real Madrid - Borussia Dortmund', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
@@ -122,10 +82,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Danimarca - Svezia', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='18:00 Galles - Olanda', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
@@ -149,32 +105,16 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Portogallo - Italia', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='Mediaset'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
-Pagina Evento: https://thisnot.business/player.php?id=DaznFreeES
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row
-
-Pagina Evento: https://thisnot.business/player.php?id=MBCaction
-  Dettagli: Categoria='CALCIO', Evento='21:00 Fluminense - Al Hilal', Canale='MBC'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Palmeiras - Chelsea', Canale='SporTV'
-  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Dettagli: Categoria='CALCIO', Evento='18:00 PSG - Bayern Monaco', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
-  Dettagli: Categoria='CALCIO', Evento='18:00 Real Madrid - Borussia Dortmund', Canale='Sat.1'
+  Dettagli: Categoria='CALCIO', Evento='22:00 Real Madrid - Borussia Dortmund', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Borussia Dortmund', Canale='Mediaset'
+  Dettagli: Categoria='CALCIO', Evento='22:00 Real Madrid - Borussia Dortmund', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
@@ -236,4 +176,12 @@ Pagina Evento: https://thisnot.business/player.php?id=ITA_SportF1
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportF1
   Dettagli: Categoria='FORMULA 1', Evento='16:00 Gara', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10
+
+Pagina Evento: https://thisnot.business/player.php?id=Eurosport1IT
+  Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'
+  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
+
+Pagina Evento: https://thisnot.business/player.php?id=Eurosport2IT
+  Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'
+  Stato Estrazione: OK - Proxy generato: https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 

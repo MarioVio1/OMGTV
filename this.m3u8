@@ -3,20 +3,11 @@
 #EXTINF:-1 tvg-id="RTE2" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Portogallo - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
-#EXTINF:-1 tvg-id="DaznFreeES" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Fluminense - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row
-
-#EXTINF:-1 tvg-id="MBCaction" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Fluminense - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", MBC (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1
-
-#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 03:00 Palmeiras - Chelsea" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
-#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 18:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
+#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 22:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
+
+#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 22:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 #EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 01:00 USA - Messico" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
@@ -53,4 +44,10 @@ https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://m
 
 #EXTINF:-1 tvg-id="ITA_SportF1" tvg-name="GP SILVERSTONE - INGHILTERRA SABATO 5 LUGLIO 16:00 Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10
+
+#EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
+https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
+
+#EXTINF:-1 tvg-id="Eurosport2IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
+https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 

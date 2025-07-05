@@ -54,14 +54,14 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
+https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -270,9 +270,6 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/180
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -399,9 +396,6 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/122
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -516,9 +510,6 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/175
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -527,9 +518,6 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/344
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -616,9 +604,6 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/334
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
-https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
@@ -1701,20 +1686,11 @@ https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https%3A/
 #EXTINF:-1 tvg-id="RTE2" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Portogallo - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
-#EXTINF:-1 tvg-id="DaznFreeES" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Fluminense - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row
-
-#EXTINF:-1 tvg-id="MBCaction" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Fluminense - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", MBC (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1
-
-#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 03:00 Palmeiras - Chelsea" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
-https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
-#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 18:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
+#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 22:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
+
+#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 22:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 #EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 01:00 USA - Messico" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
@@ -1751,6 +1727,12 @@ https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://m
 
 #EXTINF:-1 tvg-id="ITA_SportF1" tvg-name="GP SILVERSTONE - INGHILTERRA SABATO 5 LUGLIO 16:00 Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10
+
+#EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
+https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
+
+#EXTINF:-1 tvg-id="Eurosport2IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
+https://mazz3tv.onrender.com/proxy/mpd/manifest.m3u8?api_password=58&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 
 # Playlist generata da SkyStreaming
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Sligo Rovers vs Shamrock Rovers" tvg-name="20:45 Ireland Republic - Premier Division : Sligo Rovers vs Shamrock Rovers - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
@@ -1846,142 +1828,142 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-
 #EXTINF:-1 tvg-id="Argentina - Primera B Metropolitana - Argentino Merlo vs Excursionistas" tvg-name="18:00 Argentina - Primera B Metropolitana : Argentino Merlo vs Excursionistas - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TyC Sports Argentina
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-746.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC One UK
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", BBC One UK
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-356.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", S4C UK
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", S4C UK
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-670.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Network USA
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", FOX Network USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", FOXNY USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", RTE 2 Ireland
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-365.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 1 NL
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", NPO 1 NL
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN4
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", TSN4
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", Teledeporte Spain
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", TRT Spor Turkey
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ZDF DE
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", ZDF DE
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-727.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", DAZN1 DE
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI Sport 1 IT
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", RAI Sport 1 IT
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport Czech
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", ČT Sport Czech
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1033.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", Sport TV1 Portugal
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", TVP Sport Poland
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TMC France
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", TMC France
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-955.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", M4 Sports Hungary
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTSH Sport Albania
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", RTSH Sport Albania
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", YLE TV2 Finland
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", YLE TV2 Finland
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Tipik Belgium
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", Tipik Belgium
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NRK1 Norway
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", NRK1 Norway
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", TV3 Sport Denmark
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", SRF zwei
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", TUDN USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", ERT 2 Greece
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", SuperSport Football
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1 HD
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", beIN Sports MENA 1 HD
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", beIN Sports MENA English 2
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Wales vs Netherlands" tvg-name="18:00 UEFA Women's Euro : Wales vs Netherlands - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Calcio", Sport 4 Israel
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", TNT USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-338.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", 1TV Georgia
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oneplay Sport 1 CZ
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", Oneplay Sport 1 CZ
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1027.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oneplay Sport 3 CZ
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", Oneplay Sport 3 CZ
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1029.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", TRT 1 Turkey
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sat.1 DE
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", Sat.1 DE
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-729.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MBC Action
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", MBC Action
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-21.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MBC Masr 2
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", MBC Masr 2
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-22.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 France
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", DAZN1 France
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 2 Digitalb
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", SuperSport 2 Digitalb
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", BNT 1
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-476.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", BNT 3
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", SuperSport Premier League
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", SuperSport Laliga
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-415.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Telefe Argentina
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", Telefe Argentina
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-23.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", SuperSport MaXimo 1
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5Sport Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", 5Sport Israel
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
 
 #EXTINF:-1 tvg-id="Club Friendly - Siroki Brijeg vs Dinamo Zagreb" tvg-name="18:15 Club Friendly : Siroki Brijeg vs Dinamo Zagreb - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Slovenija
@@ -2122,79 +2104,79 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-
 #EXTINF:-1 tvg-id="Norway - Eliteserien - Tromsø vs Molde" tvg-name="22:00 Norway - Eliteserien : Tromsø vs Molde - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 4 Croatia
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Channel 5 UK
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Channel 5 UK
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-355.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", TNT USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-338.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", truTV USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", truTV USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-341.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TeleCinco Espana
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", TeleCinco Espana
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-532.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Golf UK
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Sky Sports Golf UK
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-70.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canale 5 IT
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Canale 5 IT
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-30.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVI Portugal
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", TVI Portugal
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-723.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro TV Romania
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Pro TV Romania
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-29.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oneplay Sport 1 CZ
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Oneplay Sport 1 CZ
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1027.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", SporTV BR
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", 1TV Georgia
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", TRT 1 Turkey
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 France
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", DAZN1 France
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN Mexico
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", TUDN Mexico
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-935.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", TUDN USA
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Univision
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Univision
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-132.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ANT1 Greece
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", ANT1 Greece
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 2 Digitalb
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", SuperSport 2 Digitalb
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", BNT 1
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-476.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DIRECTV Sports Argentina
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", DIRECTV Sports Argentina
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MáXimo 1
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", SuperSport MáXimo 1
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Grandstand
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", SuperSport Grandstand
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", SuperSport Premier League
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", Sport 5 Live Israel
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", 5 Sport Israel
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
 
 #EXTINF:-1 tvg-id="Africa Women Cup of Nations - Morocco vs Zambia" tvg-name="22:00 Africa Women Cup of Nations : Morocco vs Zambia - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
@@ -3274,7 +3256,7 @@ https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-
 #EXTINF:-1 tvg-id="Friendly International - Maori All Blacks vs Scotland" tvg-name="05:35 Friendly International : Maori All Blacks vs Scotland - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 1 NZ
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-588.php
 
-#EXTINF:-1 tvg-id="Friendly International - Japan vs Wales" tvg-name="07:00 Friendly International : Japan vs Wales - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", ProSieben MAXX DE
+#EXTINF:-1 tvg-id="Friendly International - Japan vs Wales" tvg-name="07:00 Friendly International : Japan vs Wales - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710029_wales-w-x-netherlands-w.png" group-title="Rugby Union", ProSieben MAXX DE
 https://gigx58-dprox.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-30.php
 
 #EXTINF:-1 tvg-id="Friendly International - New Zealand vs France" tvg-name="09:05 Friendly International : New Zealand vs France - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ France

@@ -1,21 +1,49 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
+Pagina Evento: https://thisnot.business/player.php?id=RSILA2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Finlandia - Svizzera', Canale='RSI'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Islanda', Canale='RAI'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=Rai2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Italia - Spagna', Canale='RAI'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
+  Dettagli: Categoria='CALCIO', Evento='21:00 Portogallo - Belgio', Canale='Sport•TV'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+Pagina Evento: https://thisnot.business/player.php?id=RSILA2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Germania', Canale='RSI'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTS2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Polonia - Danimarca', Canale='RTS'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTS2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Inghilterra - Galles', Canale='RTS'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RSILA2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Olanda - Francia', Canale='RSI'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Real Madrid', Canale='Mediaset'
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
-  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Real Madrid', Canale='Chanel 5'
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Chanel 5'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Olanda', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=France2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Galles', Canale='France 2'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+Pagina Evento: https://thisnot.business/player.php?id=SAT1
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Sat.1'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=RSILA2
   Dettagli: Categoria='CALCIO', Evento='21:00 Finlandia - Svizzera', Canale='RSI'
@@ -50,52 +78,16 @@ Pagina Evento: https://thisnot.business/player.php?id=RSILA2
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Real Madrid', Canale='Mediaset'
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
-  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Real Madrid', Canale='Chanel 5'
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Chanel 5'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='18:00 Inghilterra - Olanda', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=France2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Galles', Canale='France 2'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RSILA2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Finlandia - Svizzera', Canale='RSI'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RaiSport
-  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Islanda', Canale='RAI'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Italia - Spagna', Canale='RAI'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Portogallo - Belgio', Canale='Sport•TV'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
-
-Pagina Evento: https://thisnot.business/player.php?id=RSILA2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Germania', Canale='RSI'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTS2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Polonia - Danimarca', Canale='RTS'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTS2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Inghilterra - Galles', Canale='RTS'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RSILA2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Olanda - Francia', Canale='RSI'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+Pagina Evento: https://thisnot.business/player.php?id=SAT1
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Sat.1'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportTennis
   Dettagli: Categoria='TENNIS', Evento='12:00 Best Match', Canale='Sky Sport'
@@ -120,10 +112,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ITA_Wimbledon2
 Pagina Evento: https://thisnot.business/player.php?id=ITA_Wimbledon3
   Dettagli: Categoria='TENNIS', Evento='12:00 Wimbledon (Live 3)', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysport253%29/master_2hr-all.mpd&key_id=1118fd92d668c4c91177ccdee292a362&key=c9eb2b63cf1a8a00dcad6a6359138a56
-
-Pagina Evento: https://thisnot.business/player.php?id=ITA_Wimbledon4
-  Dettagli: Categoria='TENNIS', Evento='12:00 Wimbledon (Live 4)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysport254%29/master_2hr-all.mpd&key_id=1118bc79025d7afe4aade4026f773831&key=c99b86dd3c6abc3d388bb73372077152
 
 Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
   Dettagli: Categoria='TENNIS', Evento='12:00 Live', Canale='Ziggo'

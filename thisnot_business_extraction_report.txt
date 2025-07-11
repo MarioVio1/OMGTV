@@ -93,25 +93,9 @@ Pagina Evento: https://thisnot.business/player.php?id=ITA_SportTennis
   Dettagli: Categoria='TENNIS', Evento='12:00 Best Match', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1
 
-Pagina Evento: https://thisnot.business/player.php?id=ITA_SportArena
-  Dettagli: Categoria='TENNIS', Evento='12:00 Best Match', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportarena%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk0ZGZhZWNmYzY0YWNmMTE0YjAyNmIxYjA2ZmY6ZDFhMTQ5ODc5YTE3ZjEzZjJkNThiN2FkZTVkOGEwNjY%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111894dfaecfc64acf114b026b1b06ff&key=d1a149879a17f13f2d58b7ade5d8a066
-
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportUno
   Dettagli: Categoria='TENNIS', Evento='12:00 Best Match', Canale='Sky Sport'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=ITA_Wimbledon1
-  Dettagli: Categoria='TENNIS', Evento='12:00 Wimbledon (Live 1)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysport251%29/master_2hr-aac.mpd&key_id=11151be3428480868250f38fd1b7f372&key=43c8bf86dc2f6cba8778e7cdff0496cd
-
-Pagina Evento: https://thisnot.business/player.php?id=ITA_Wimbledon2
-  Dettagli: Categoria='TENNIS', Evento='12:00 Wimbledon (Live 2)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysport252%29/master_2hr-all.mpd&key_id=11183e52b0f1b1da52b7fea82e390bfd&key=470395d6b7a0e7004cbecbf73052d55e
-
-Pagina Evento: https://thisnot.business/player.php?id=ITA_Wimbledon3
-  Dettagli: Categoria='TENNIS', Evento='12:00 Wimbledon (Live 3)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysport253%29/master_2hr-all.mpd&key_id=1118fd92d668c4c91177ccdee292a362&key=c9eb2b63cf1a8a00dcad6a6359138a56
 
 Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
   Dettagli: Categoria='TENNIS', Evento='12:00 Live', Canale='Ziggo'

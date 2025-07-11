@@ -54,23 +54,14 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/37438
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -98,6 +89,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/26514
 
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="disney+film.it" tvg-name="Disney+ Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film",DISNEY+ FILM (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -272,6 +266,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18036
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -534,6 +531,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/16659
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -561,7 +561,13 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/27119
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/78546677680f40b76841&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
@@ -572,6 +578,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/31929
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/

@@ -81,7 +81,7 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-35
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
 
 #EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-25.php
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-24.php
 
 #EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
@@ -195,7 +195,7 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-12
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-955.php
 
 #EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ETV 2 Estonia
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-123.php
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
 
 #EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
@@ -712,4 +712,1240 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79
 
 #EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Bray Wanderers vs Dundalk" tvg-name="20:45 Ireland Republic - First Division : Bray Wanderers vs Dundalk - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Treaty United vs Cobh Ramblers" tvg-name="20:45 Ireland Republic - First Division : Treaty United vs Cobh Ramblers - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - UCD vs Finn Harps" tvg-name="20:45 Ireland Republic - First Division : UCD vs Finn Harps - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Wexford vs Athlone Town" tvg-name="20:45 Ireland Republic - First Division : Wexford vs Athlone Town - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Galway United" tvg-name="20:45 Ireland Republic - Premier Division : Bohemians vs Galway United - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Waterford United vs Cork City" tvg-name="20:45 Ireland Republic - Premier Division : Waterford United vs Cork City - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="Club Friendly - IMT Novi Beograd vs Radnik Surdulica" tvg-name="11:00 Club Friendly : IMT Novi Beograd vs Radnik Surdulica - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-430.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Melbourne Victory vs Wrexham" tvg-name="11:30 Club Friendly : Melbourne Victory vs Wrexham - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Melbourne Victory vs Wrexham" tvg-name="11:30 Club Friendly : Melbourne Victory vs Wrexham - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Melbourne Victory vs Wrexham" tvg-name="11:30 Club Friendly : Melbourne Victory vs Wrexham - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Melbourne Victory vs Wrexham" tvg-name="11:30 Club Friendly : Melbourne Victory vs Wrexham - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Asia - EAFF E-1 Football Championship - Hong Kong vs Korea Republic" tvg-name="13:00 Asia - EAFF E-1 Football Championship : Hong Kong vs Korea Republic - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
+
+#EXTINF:-1 tvg-id="Asia - EAFF E-1 Football Championship - Hong Kong vs Korea Republic" tvg-name="13:00 Asia - EAFF E-1 Football Championship : Hong Kong vs Korea Republic - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Grandstand
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-123.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Arda vs Beitar Jerusalem" tvg-name="14:00 Club Friendly : Arda vs Beitar Jerusalem - 11/07/25" tvg-logo="https://guardacalcio.sbs/templates/calciostreaming1/images/logo.png" group-title="Calcio", Sport 3 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Metaloglobus vs Universitatea Cluj" tvg-name="18:00 Romania - Liga I : Metaloglobus vs Universitatea Cluj - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Metaloglobus vs Universitatea Cluj" tvg-name="18:00 Romania - Liga I : Metaloglobus vs Universitatea Cluj - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Metaloglobus vs Universitatea Cluj" tvg-name="18:00 Romania - Liga I : Metaloglobus vs Universitatea Cluj - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MáXimo 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Ghana vs Mali" tvg-name="18:00 Africa Women Cup of Nations : Ghana vs Mali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Stars Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
+
+#EXTINF:-1 tvg-id="Russia - Women's Football Championship - Zenit vs Krasnodar" tvg-name="18:00 Russia - Women's Football Championship : Zenit vs Krasnodar - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
+
+#EXTINF:-1 tvg-id="Russia - Women's Football Championship - Zenit vs Krasnodar" tvg-name="18:00 Russia - Women's Football Championship : Zenit vs Krasnodar - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="Finland - Ykkösliiga - EPS vs Atlantis" tvg-name="18:00 Finland - Ykkösliiga : EPS vs Atlantis - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ruutu+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="Finland - Ykkösliiga - Tampere United vs Inter Turku II" tvg-name="18:00 Finland - Ykkösliiga : Tampere United vs Inter Turku II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ruutu+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="Finland - Ykkönen - EPS vs Atlantis" tvg-name="18:00 Finland - Ykkönen : EPS vs Atlantis - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ruutu+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="Finland - Ykkönen - Tampere United vs Inter Turku II" tvg-name="18:00 Finland - Ykkönen : Tampere United vs Inter Turku II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ruutu+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="Lithuanian League - Riteriai vs Siauliai" tvg-name="18:00 Lithuanian League : Riteriai vs Siauliai - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 4 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Romania - Liga I - SCM Argeşul Piteşti vs Rapid Bucureşti" tvg-name="20:30 Romania - Liga I : SCM Argeşul Piteşti vs Rapid Bucureşti - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
+
+#EXTINF:-1 tvg-id="Romania - Liga I - SCM Argeşul Piteşti vs Rapid Bucureşti" tvg-name="20:30 Romania - Liga I : SCM Argeşul Piteşti vs Rapid Bucureşti - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
+
+#EXTINF:-1 tvg-id="Romania - Liga I - SCM Argeşul Piteşti vs Rapid Bucureşti" tvg-name="20:30 Romania - Liga I : SCM Argeşul Piteşti vs Rapid Bucureşti - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-434.php
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Aldosivi vs Central Córdoba SdE" tvg-name="20:30 Argentina - Primera División : Aldosivi vs Central Córdoba SdE - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-388.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Network USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC One UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-356.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVE La 1 ES
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-533.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI 2 IT
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-851.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-365.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Das Erste DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-739.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TMC France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-955.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", YLE TV2 Finland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ETV 2 Estonia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Direkte Norway
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3+ HD Denmark
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-819.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HRT 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 2 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF Sport Plus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-19.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 3 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-21.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-926.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports Sweden
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-798.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Italy vs Spain" tvg-name="21:00 UEFA Women's Euro : Italy vs Spain - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-112.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain (TDP)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS Sport Switzerland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTP 1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-719.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-22.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TFX France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Norway
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV10 Sweden
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-415.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Portugal vs Belgium" tvg-name="21:00 UEFA Women's Euro : Portugal vs Belgium - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV6 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tanzania vs South Africa" tvg-name="21:00 Africa Women Cup of Nations : Tanzania vs South Africa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Stars Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - ADT vs Comerciantes Unidos" tvg-name="22:00 Peru - Primera Division : ADT vs Comerciantes Unidos - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Vila Nova vs Operário PR" tvg-name="00:00 Brazil - Serie B : Vila Nova vs Operário PR - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="Argentina Primera LPF - Talleres Córdoba vs San Lorenzo" tvg-name="01:00 Argentina Primera LPF : Talleres Córdoba vs San Lorenzo - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-387.php
+
+#EXTINF:-1 tvg-id="Argentina Primera LPF - Talleres Córdoba vs San Lorenzo" tvg-name="01:00 Argentina Primera LPF : Talleres Córdoba vs San Lorenzo - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Premium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Argentina Primera LPF - Talleres Córdoba vs San Lorenzo" tvg-name="01:00 Argentina Primera LPF : Talleres Córdoba vs San Lorenzo - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="Argentina Primera LPF - Talleres Córdoba vs San Lorenzo" tvg-name="01:00 Argentina Primera LPF : Talleres Córdoba vs San Lorenzo - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Llaneros vs América de Cali" tvg-name="01:00 Colombia - Primera A : Llaneros vs América de Cali - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Ecuador vs Uruguay" tvg-name="02:00 Copa América Femenina : Ecuador vs Uruguay - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Ecuador vs Uruguay" tvg-name="02:00 Copa América Femenina : Ecuador vs Uruguay - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sortv Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Ecuador vs Uruguay" tvg-name="02:00 Copa América Femenina : Ecuador vs Uruguay - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Ecuador vs Uruguay" tvg-name="02:00 Copa América Femenina : Ecuador vs Uruguay - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="USL Championship - Monterey Bay vs Orange County SC" tvg-name="03:00 USL Championship : Monterey Bay vs Orange County SC - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="Liga MX - Puebla vs Atlas" tvg-name="03:00 Liga MX : Puebla vs Atlas - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="Liga MX - Puebla vs Atlas" tvg-name="03:00 Liga MX : Puebla vs Atlas - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-929.php
+
+#EXTINF:-1 tvg-id="Liga MX - Puebla vs Atlas" tvg-name="03:00 Liga MX : Puebla vs Atlas - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Premium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-830.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Once Caldas vs Atlético Nacional" tvg-name="03:10 Colombia - Primera A : Once Caldas vs Atlético Nacional - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="Liga MX - Tijuana vs Querétaro" tvg-name="05:00 Liga MX : Tijuana vs Querétaro - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="Liga MX - Tijuana vs Querétaro" tvg-name="05:00 Liga MX : Tijuana vs Querétaro - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-929.php
+
+#EXTINF:-1 tvg-id="Liga MX - Juárez vs América" tvg-name="05:00 Liga MX : Juárez vs América - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NBC Universo
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-845.php
+
+#EXTINF:-1 tvg-id="Liga MX - Juárez vs América" tvg-name="05:00 Liga MX : Juárez vs América - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azteca 7 Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-844.php
+
+#EXTINF:-1 tvg-id="Liga MX - Juárez vs América" tvg-name="05:00 Liga MX : Juárez vs América - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Liga MX - Juárez vs América" tvg-name="05:00 Liga MX : Juárez vs América - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 22
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1523.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 24
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Alcaraz C." tvg-name="14:30 ATP - WIMBLEDON : Fritz T. vs Alcaraz C. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 21
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 22
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1523.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 24
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
+
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Djokovic N." tvg-name="16:30 ATP - WIMBLEDON : Sinner J. vs Djokovic N. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 21
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Gadecki O./Krawczyk D. vs Kudermetova V./Mertens E." tvg-name="14:30 WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Kudermetova V./Mertens E. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Gadecki O./Krawczyk D. vs Kudermetova V./Mertens E." tvg-name="14:30 WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Kudermetova V./Mertens E. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream 21
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Siniakova K./Townsend T. vs Hsieh S-W./Ostapenko J." tvg-name="16:00 WTA DOUBLES - WIMBLEDON : Siniakova K./Townsend T. vs Hsieh S-W./Ostapenko J. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Siniakova K./Townsend T. vs Hsieh S-W./Ostapenko J." tvg-name="16:00 WTA DOUBLES - WIMBLEDON : Siniakova K./Townsend T. vs Hsieh S-W./Ostapenko J. - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream 21
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - CNo. 1 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : CNo. 1 Court - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - No. 3 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : No. 3 Court - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 5" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 5 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 6" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 6 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 7" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 7 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 7
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 8" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 8 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 8
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 12" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 12 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 12
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 14" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 14 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 14
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 15" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 15 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 15
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1515.php
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 18" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 18 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 18
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC ONE UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-356.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-357.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-914.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-915.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-638.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-636.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-438.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-526.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-527.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Premium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Premium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 4 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-116.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-496.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-497.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-498.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-57.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-524.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-231.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-41.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-58.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-525.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-42.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-490.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-97.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
+
+#EXTINF:-1 tvg-id="Supercars Championship 2025 - Townsville 500, Race 1" tvg-name="07:40 Supercars Championship 2025: Townsville 500, Race 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="Supercars Championship 2025 - Townsville 500, Race 1" tvg-name="07:40 Supercars Championship 2025: Townsville 500, Race 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Supercars Championship 2025 - Townsville 500, Race 1" tvg-name="07:40 Supercars Championship 2025: Townsville 500, Race 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", SPORT1+ DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="Supercars Championship 2025 - Townsville 500, Race 1" tvg-name="07:40 Supercars Championship 2025: Townsville 500, Race 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-557.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice" tvg-name="08:55 Moto3 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-557.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice" tvg-name="09:45 Moto2 : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-557.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-445.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-272.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice" tvg-name="10:40 MotoGP : German Grand Prix Free Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="World Superbike - Donington Park (T2025) - FP1" tvg-name="11:00 World Superbike - Donington Park (T2025): FP1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN2 ES
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-446.php
+
+#EXTINF:-1 tvg-id="FIM Superbike World Championship UK Round - Superbike Free Practice 1" tvg-name="11:15 FIM Superbike World Championship UK Round: Superbike Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="FIM Superbike World Championship UK Round - Superbike Free Practice 1" tvg-name="11:15 FIM Superbike World Championship UK Round: Superbike Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 5 NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-592.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-557.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Free Practice 1" tvg-name="13:10 Moto3 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-557.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Free Practice 1" tvg-name="14:00 Moto2 : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-271.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-557.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-445.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-626.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-272.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Free Practice 1" tvg-name="15:00 MotoGP : German Grand Prix Free Practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="World Superbike - Libres 2 & Superpoles - World Superbike - Libres 2 & Superpoles" tvg-name="15:05 World Superbike - Libres 2 & Superpoles - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="World Superbike - Libres 2 & Superpoles - World Superbike - Libres 2 & Superpoles" tvg-name="15:05 World Superbike - Libres 2 & Superpoles - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 7 NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-594.php
+
+#EXTINF:-1 tvg-id="World Superbike - Libres 2 & Superpoles - World Superbike - Libres 2 & Superpoles" tvg-name="15:05 World Superbike - Libres 2 & Superpoles - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN2 ES
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-446.php
+
+#EXTINF:-1 tvg-id="Formula E - Berlin E-Prix | Free practice 1" tvg-name="16:00 Formula E : Berlin E-Prix | Free practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 2 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="Formula E - Berlin E-Prix | Free practice 1" tvg-name="16:00 Formula E : Berlin E-Prix | Free practice 1 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 4 NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-591.php
+
+#EXTINF:-1 tvg-id="FIM Superbike World Championship UK Round - Superbike Free Practice 2" tvg-name="16:00 FIM Superbike World Championship UK Round: Superbike Free Practice 2 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="FIM Superbike World Championship UK Round - Superbike Free Practice 2" tvg-name="16:00 FIM Superbike World Championship UK Round: Superbike Free Practice 2 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 7 NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-594.php
+
+#EXTINF:-1 tvg-id="SPEEDWAY 2.Ekstraliga - Czestochowa vs Torun - SPEEDWAY 2.Ekstraliga - Czestochowa vs Torun" tvg-name="20:30 SPEEDWAY 2.Ekstraliga - Czestochowa vs Torun - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Eleven Sports 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-71.php
+
+#EXTINF:-1 tvg-id="Indy NXT Series Iowa Speedway, Practice - Indy NXT Series Iowa Speedway, Practice" tvg-name="20:30 Indy NXT Series Iowa Speedway, Practice - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season Practice Session 1 - Newton, Iowa - IndyCar Series Season Practice Session 1 - Newton, Iowa" tvg-name="22:30 IndyCar Series Season Practice Session 1 - Newton, Iowa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-60.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season Practice Session 1 - Newton, Iowa - IndyCar Series Season Practice Session 1 - Newton, Iowa" tvg-name="22:30 IndyCar Series Season Practice Session 1 - Newton, Iowa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="IndyCar Series Season Practice Session 1 - Newton, Iowa - IndyCar Series Season Practice Session 1 - Newton, Iowa" tvg-name="22:30 IndyCar Series Season Practice Session 1 - Newton, Iowa - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 5 NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-592.php
+
+#EXTINF:-1 tvg-id="Indy NXT Series Iowa Speedway, Qualifying - Indy NXT Series Iowa Speedway, Qualifying" tvg-name="00:30 Indy NXT Series Iowa Speedway, Qualifying - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="Supercars Townsville 500, Qualifying Race 21 Qualifying - Supercars Townsville 500, Qualifying Race 21 Qualifying" tvg-name="00:30 Supercars Townsville 500, Qualifying Race 21 Qualifying - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 4NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-591.php
+
+#EXTINF:-1 tvg-id="ACA 189 - Abdulvakhabov vs. Bagov 4" tvg-name="16:00 ACA 189: Abdulvakhabov vs. Bagov 4 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match Box Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-395.php
+
+#EXTINF:-1 tvg-id="LFA 212 Legacy Fighting Alliance - LFA 212 Legacy Fighting Alliance" tvg-name="02:00 LFA 212 Legacy Fighting Alliance - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", UFC Fight Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", PPV Feed
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match TV Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match Box Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-395.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Nova Sports 5 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-635.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", RMC Sport 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-119.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Bandsports Brasil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-275.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", FightKlub Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", beIN SPORTS English 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="One Fight Night 33 - One Fight Night 33" tvg-name="03:00 One Fight Night 33 - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", beIN SPORTS 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Netflix PPV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", USA Network
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-343.php
+
+#EXTINF:-1 tvg-id="CFL - Saskatchewan Roughriders vs Calgary Stampeders" tvg-name="03:00 CFL : Saskatchewan Roughriders vs Calgary Stampeders - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", TSN1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="CFL - Saskatchewan Roughriders vs Calgary Stampeders" tvg-name="03:00 CFL : Saskatchewan Roughriders vs Calgary Stampeders - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", TSN3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="CFL - Saskatchewan Roughriders vs Calgary Stampeders" tvg-name="03:00 CFL : Saskatchewan Roughriders vs Calgary Stampeders - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", TSN5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="CFL - Saskatchewan Roughriders vs Calgary Stampeders" tvg-name="03:00 CFL : Saskatchewan Roughriders vs Calgary Stampeders - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", RDS CA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", #Vamos Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-521.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", svt 1 Sweden
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Ziggo Sport 2 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Arena Sport 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="IAAF Diamond League Live Herculis EBS - Stade Louis II - IAAF Diamond League Live Herculis EBS - Stade Louis II" tvg-name="20:00 IAAF Diamond League Live Herculis EBS - Stade Louis II - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Sport 1 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Basket 3x3 Pro Tour - Zagreb" tvg-name="19:00 Basket 3x3 Pro Tour: Zagreb - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Canadian Elite Basketball League - Winnipeg Sea Bears vs Winnipeg Sea Bears" tvg-name="03:30 Canadian Elite Basketball League : Winnipeg Sea Bears vs Winnipeg Sea Bears - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Next Level Sports
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Boston Celtics" tvg-name="22:00 NBA Las Vegas Summer League : Memphis Grizzlies vs Boston Celtics - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Boston Celtics" tvg-name="22:00 NBA Las Vegas Summer League : Memphis Grizzlies vs Boston Celtics - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBC Sports Boston
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-754.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Boston Celtics" tvg-name="22:00 NBA Las Vegas Summer League : Memphis Grizzlies vs Boston Celtics - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Boston Celtics" tvg-name="22:00 NBA Las Vegas Summer League : Memphis Grizzlies vs Boston Celtics - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Atlanta Hawks" tvg-name="22:30 NBA Las Vegas Summer League : Miami Heat vs Atlanta Hawks - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Atlanta Hawks" tvg-name="22:30 NBA Las Vegas Summer League : Miami Heat vs Atlanta Hawks - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Southeast
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-904.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Detroit Pistons" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Detroit Pistons - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Detroit Pistons" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Detroit Pistons - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Detroit
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-891.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Detroit Pistons" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Detroit Pistons - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Detroit Pistons" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Detroit Pistons - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Utah Jazz" tvg-name="01:00 NBA Las Vegas Summer League : Charlotte Hornets vs Utah Jazz - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Utah Jazz" tvg-name="01:00 NBA Las Vegas Summer League : Charlotte Hornets vs Utah Jazz - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN Deportes
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Chicago Bulls vs Toronto Raptors - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Chicago Bulls vs Toronto Raptors - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Chicago Bulls vs Toronto Raptors - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Chicago Bulls vs Toronto Raptors - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Phoenix Suns vs Washington Wizards" tvg-name="03:00 NBA Las Vegas Summer League : Phoenix Suns vs Washington Wizards - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Phoenix Suns vs Washington Wizards" tvg-name="03:00 NBA Las Vegas Summer League : Phoenix Suns vs Washington Wizards - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN Deportes
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Phoenix Suns vs Washington Wizards" tvg-name="03:00 NBA Las Vegas Summer League : Phoenix Suns vs Washington Wizards - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Houston Rockets" tvg-name="04:00 NBA Las Vegas Summer League : LA Clippers vs Houston Rockets - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Houston Rockets" tvg-name="04:00 NBA Las Vegas Summer League : LA Clippers vs Houston Rockets - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network SoCal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-902.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Houston Rockets" tvg-name="04:00 NBA Las Vegas Summer League : LA Clippers vs Houston Rockets - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Houston Rockets" tvg-name="04:00 NBA Las Vegas Summer League : LA Clippers vs Houston Rockets - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Golden State Warriors vs Portland Trail Blazers" tvg-name="05:00 NBA Las Vegas Summer League : Golden State Warriors vs Portland Trail Blazers - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Golden State Warriors vs Portland Trail Blazers" tvg-name="05:00 NBA Las Vegas Summer League : Golden State Warriors vs Portland Trail Blazers - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Indiana Fever W" tvg-name="02:00 WNBA : Atlanta Dream W vs Indiana Fever W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Indiana Fever W" tvg-name="02:00 WNBA : Atlanta Dream W vs Indiana Fever W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ION USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-325.php
+
+#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Seattle Storm W" tvg-name="04:00 WNBA : Connecticut Sun W vs Seattle Storm W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Seattle Storm W" tvg-name="04:00 WNBA : Connecticut Sun W vs Seattle Storm W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ION USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-325.php
+
+#EXTINF:-1 tvg-id="Rodeo Calgary Stampede - Rodeo Calgary Stampede" tvg-name="21:30 Rodeo Calgary Stampede - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rodeo", Sportsnet Ontario
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-406.php
+
+#EXTINF:-1 tvg-id="Rodeo Calgary Stampede - Rodeo Calgary Stampede" tvg-name="21:30 Rodeo Calgary Stampede - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rodeo", Sportsnet one
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-411.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Cronulla Sharks vs Redcliffe" tvg-name="12:00 National Rugby League : Cronulla Sharks vs Redcliffe - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Cronulla Sharks vs Redcliffe" tvg-name="12:00 National Rugby League : Cronulla Sharks vs Redcliffe - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Action UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-37.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Cronulla Sharks vs Redcliffe" tvg-name="12:00 National Rugby League : Cronulla Sharks vs Redcliffe - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", beIN Sports 3 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-118.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Cronulla Sharks vs Redcliffe" tvg-name="12:00 National Rugby League : Cronulla Sharks vs Redcliffe - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sport 1 NZ
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-588.php
+
+#EXTINF:-1 tvg-id="Womens Super League - Leeds Rhinos W vs. St Helens W" tvg-name="18:30 Womens Super League : Leeds Rhinos W vs. St Helens W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Action UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-37.php
+
+#EXTINF:-1 tvg-id="Womens Super League - Leeds Rhinos W vs. St Helens W" tvg-name="18:30 Womens Super League : Leeds Rhinos W vs. St Helens W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Mix UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-449.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Leeds Rhinos vs St Helens" tvg-name="21:00 Super League Rugby : Leeds Rhinos vs St Helens - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Leeds Rhinos vs St Helens" tvg-name="21:00 Super League Rugby : Leeds Rhinos vs St Helens - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Action UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-37.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - Leeds Rhinos vs St Helens" tvg-name="21:00 Super League Rugby : Leeds Rhinos vs St Helens - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sportdigital+ DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="National Rugby League Women - Canberra Raiders W vs Cronulla Sharks W" tvg-name="04:45 National Rugby League Women : Canberra Raiders W vs Cronulla Sharks W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="National Rugby League Women - Canberra Raiders W vs Cronulla Sharks W" tvg-name="04:45 National Rugby League Women : Canberra Raiders W vs Cronulla Sharks W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Mix UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-449.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs France W" tvg-name="08:30 Nations League Women : Bulgaria W vs France W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs France W" tvg-name="08:30 Nations League Women : Bulgaria W vs France W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs France W" tvg-name="08:30 Nations League Women : Bulgaria W vs France W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Poland W vs Brazil W" tvg-name="12:20 Nations League Women : Poland W vs Brazil W - 11/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Poland W vs Brazil W" tvg-name="12:20 Nations League Women : Poland W vs Brazil W - 11/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Sportklub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Poland W vs Brazil W" tvg-name="12:20 Nations League Women : Poland W vs Brazil W - 11/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Arena Sport 1 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Poland W vs Brazil W" tvg-name="12:20 Nations League Women : Poland W vs Brazil W - 11/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Poland W vs Brazil W" tvg-name="12:20 Nations League Women : Poland W vs Brazil W - 11/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Serbia W" tvg-name="17:00 Nations League Women : Belgium W vs Serbia W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Serbia W" tvg-name="17:00 Nations League Women : Belgium W vs Serbia W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Serbia W" tvg-name="17:00 Nations League Women : Belgium W vs Serbia W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Serbia W" tvg-name="17:00 Nations League Women : Belgium W vs Serbia W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium W vs Serbia W" tvg-name="17:00 Nations League Women : Belgium W vs Serbia W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CT Sport Czech HD
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 1 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", TRT 1 Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1012.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W Turkey W" tvg-name="20:30 Nations League Women : Czech Republic W Turkey W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Thailand W vs Dominican Republic W" tvg-name="23:00 Nations League Women : Thailand W vs Dominican Republic W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Thailand W vs Dominican Republic W" tvg-name="23:00 Nations League Women : Thailand W vs Dominican Republic W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Thailand W vs Dominican Republic W" tvg-name="23:00 Nations League Women : Thailand W vs Dominican Republic W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Canada W vs China W" tvg-name="02:30 Nations League Women : Canada W vs China W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Canada W vs China W" tvg-name="02:30 Nations League Women : Canada W vs China W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League Women - Canada W vs China W" tvg-name="02:30 Nations League Women : Canada W vs China W - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 5 - Los Angeles - AVP Beach Volleyball League Week 5 - Los Angeles" tvg-name="04:00 AVP Beach Volleyball League Week 5 - Los Angeles - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
 

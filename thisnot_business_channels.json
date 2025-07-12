@@ -1,28 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=RSILA2": {
-    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "MONDIALE PER CLUB, FINALE - USA",
-      "date": "DOMENICA 13 LUGLIO",
-      "event": "21:00 Olanda - Francia",
-      "channel": "RSI",
-      "language": "fr",
-      "url": "https://thisnot.business/player.php?id=RSILA2"
-    }
-  },
-  "https://thisnot.business/player.php?id=RaiSport": {
-    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "MONDIALE PER CLUB, FINALE - USA",
-      "date": "DOMENICA 13 LUGLIO",
-      "event": "21:00 Norvegia - Islanda",
-      "channel": "RAI",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=RaiSport"
-    }
-  },
   "https://thisnot.business/player.php?id=Rai2": {
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
     "info": {
@@ -31,7 +7,7 @@
       "date": "DOMENICA 13 LUGLIO",
       "event": "21:00 Italia - Spagna",
       "channel": "RAI",
-      "language": "it",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Rai2"
     }
   },
@@ -45,6 +21,18 @@
       "channel": "Sport•TV",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SportTV1_PT"
+    }
+  },
+  "https://thisnot.business/player.php?id=RSILA2": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
+      "event": "21:00 Olanda - Francia",
+      "channel": "RSI",
+      "language": "fr",
+      "url": "https://thisnot.business/player.php?id=RSILA2"
     }
   },
   "https://thisnot.business/player.php?id=RTS2": {
@@ -160,7 +148,7 @@
     "info": {
       "category": "MOTOMONDIALE",
       "title": "GP SACHSENRING - GERMANIA",
-      "date": "VENERDI 11 LUGLIO",
+      "date": "SABATO 12 LUGLIO",
       "event": "14:00 MotoGP - Gara",
       "channel": "Sky Sport",
       "language": "it",

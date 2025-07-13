@@ -1,10 +1,6 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=ITA_SportUno
-  Dettagli: Categoria='SUPERBIKE', Evento='15:00 Gara 2', Canale='Sky Sport'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportTennis
   Dettagli: Categoria='TENNIS', Evento='17:00 Alcaraz - SINNER', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1

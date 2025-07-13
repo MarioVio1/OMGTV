@@ -2,10 +2,6 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
-  Dettagli: Categoria='MOTOMONDIALE', Evento='11:00 Moto3 - Gara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
-
-Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='12:15 Moto2 - Gara', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
@@ -13,9 +9,41 @@ Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='14:00 MotoGP - Gara', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
+Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Mediaset'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
+
+Pagina Evento: https://thisnot.business/player.php?id=Channel5
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Chanel 5'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=SAT1
+  Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Sat.1'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
+
+Pagina Evento: https://thisnot.business/player.php?id=RTS2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Inghilterra - Galles', Canale='RTS'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RSILA2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Olanda - Francia', Canale='RSI'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='23:45 Argentinos Juniors - Boca Juniors', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='02:00 River Plate - Platense', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
 Pagina Evento: https://thisnot.business/player.php?id=Premiere1_BR
-  Dettagli: Categoria='CALCIO', Evento='23:30 Vasco da Gama - Botafogo', Canale='Premiere'
+  Dettagli: Categoria='CALCIO', Evento='00:00 Corinthians - RB Bragantino', Canale='Premiere'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:30 Fortaleza - Ceara', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Mediaset'
@@ -37,9 +65,21 @@ Pagina Evento: https://thisnot.business/player.php?id=RSILA2
   Dettagli: Categoria='CALCIO', Evento='21:00 Olanda - Francia', Canale='RSI'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='23:45 Argentinos Juniors - Boca Juniors', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='02:00 River Plate - Platense', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
 Pagina Evento: https://thisnot.business/player.php?id=Premiere1_BR
-  Dettagli: Categoria='CALCIO', Evento='23:30 Vasco da Gama - Botafogo', Canale='Premiere'
+  Dettagli: Categoria='CALCIO', Evento='00:00 Corinthians - RB Bragantino', Canale='Premiere'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:30 Fortaleza - Ceara', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Mediaset'
@@ -61,9 +101,21 @@ Pagina Evento: https://thisnot.business/player.php?id=RSILA2
   Dettagli: Categoria='CALCIO', Evento='21:00 Olanda - Francia', Canale='RSI'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='23:45 Argentinos Juniors - Boca Juniors', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='02:00 River Plate - Platense', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
 Pagina Evento: https://thisnot.business/player.php?id=Premiere1_BR
-  Dettagli: Categoria='CALCIO', Evento='23:30 Vasco da Gama - Botafogo', Canale='Premiere'
+  Dettagli: Categoria='CALCIO', Evento='00:00 Corinthians - RB Bragantino', Canale='Premiere'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:30 Fortaleza - Ceara', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 PSG - Chelsea', Canale='Mediaset'
@@ -84,6 +136,22 @@ Pagina Evento: https://thisnot.business/player.php?id=RTS2
 Pagina Evento: https://thisnot.business/player.php?id=RSILA2
   Dettagli: Categoria='CALCIO', Evento='21:00 Olanda - Francia', Canale='RSI'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='23:45 Argentinos Juniors - Boca Juniors', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
+  Dettagli: Categoria='CALCIO', Evento='02:00 River Plate - Platense', Canale='Arena Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere1_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Corinthians - RB Bragantino', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:30 Fortaleza - Ceara', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportTennis
   Dettagli: Categoria='TENNIS', Evento='17:00 Alcaraz - SINNER', Canale='Sky Sport'

@@ -11,27 +11,15 @@
       "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
     }
   },
-  "https://thisnot.business/player.php?id=Premiere1_BR": {
-    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "DOMENICA 13 LUGLIO",
-      "event": "23:30 Vasco da Gama - Botafogo",
-      "channel": "Premiere",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Premiere1_BR"
-    }
-  },
   "https://thisnot.business/player.php?id=Canale5_IT": {
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "DOMENICA 13 LUGLIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
       "event": "21:00 PSG - Chelsea",
       "channel": "Mediaset",
-      "language": "br",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
     }
   },
@@ -39,8 +27,8 @@
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "DOMENICA 13 LUGLIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
       "event": "21:00 PSG - Chelsea",
       "channel": "Chanel 5",
       "language": "it",
@@ -51,8 +39,8 @@
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "DOMENICA 13 LUGLIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
       "event": "21:00 PSG - Chelsea",
       "channel": "Sat.1",
       "language": "uk",
@@ -63,8 +51,8 @@
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "DOMENICA 13 LUGLIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
       "event": "21:00 Inghilterra - Galles",
       "channel": "RTS",
       "language": "de",
@@ -75,12 +63,48 @@
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "DOMENICA 13 LUGLIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
       "event": "21:00 Olanda - Francia",
       "channel": "RSI",
       "language": "fr",
       "url": "https://thisnot.business/player.php?id=RSILA2"
+    }
+  },
+  "https://thisnot.business/player.php?id=ArenaSP1_ME": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
+      "event": "02:00 River Plate - Platense",
+      "channel": "Arena Sport",
+      "language": "me",
+      "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
+    }
+  },
+  "https://thisnot.business/player.php?id=Premiere1_BR": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
+      "event": "00:00 Corinthians - RB Bragantino",
+      "channel": "Premiere",
+      "language": "me",
+      "url": "https://thisnot.business/player.php?id=Premiere1_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=Premiere2_BR": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO BRASILEIRAO - BRASILE",
+      "date": "LUNEDI 14 LUGLIO",
+      "event": "01:30 Fortaleza - Ceara",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere2_BR"
     }
   },
   "https://thisnot.business/player.php?id=ITA_SportTennis": {
@@ -91,7 +115,7 @@
       "date": "DOMENICA 13 LUGLIO",
       "event": "17:00 Alcaraz - SINNER",
       "channel": "Sky Sport",
-      "language": "it",
+      "language": "br",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
     }
   },

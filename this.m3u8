@@ -1,5 +1,11 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
+#EXTINF:-1 tvg-id="TNTSP_ARG" tvg-name="CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA MERCOLEDI 16 LUGLIO 02:30 Velez Sarsfield - Tigre" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT Sports (VPN Argentina) (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+
+#EXTINF:-1 tvg-id="ESPNP_AR" tvg-name="CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA MERCOLEDI 16 LUGLIO 02:30 Union Santa Fe - Estudiantes" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (VPN Argentina) (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+
 #EXTINF:-1 tvg-id="Rai2" tvg-name="CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA MERCOLEDI 16 LUGLIO 21:00 Norvegia - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 

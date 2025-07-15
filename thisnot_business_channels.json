@@ -1,28 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=TNTSP_ARG": {
-    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA",
-      "date": "MERCOLEDI 16 LUGLIO",
-      "event": "02:30 Velez Sarsfield - Tigre",
-      "channel": "TNT Sports (VPN Argentina)",
-      "language": "ar",
-      "url": "https://thisnot.business/player.php?id=TNTSP_ARG"
-    }
-  },
-  "https://thisnot.business/player.php?id=ESPNP_AR": {
-    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA",
-      "date": "MERCOLEDI 16 LUGLIO",
-      "event": "02:30 Union Santa Fe - Estudiantes",
-      "channel": "ESPN (VPN Argentina)",
-      "language": "ar",
-      "url": "https://thisnot.business/player.php?id=ESPNP_AR"
-    }
-  },
   "https://thisnot.business/player.php?id=Rai2": {
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
     "info": {
@@ -31,7 +7,7 @@
       "date": "MERCOLEDI 16 LUGLIO",
       "event": "21:00 Norvegia - Italia",
       "channel": "Rai",
-      "language": "ar",
+      "language": "al",
       "url": "https://thisnot.business/player.php?id=Rai2"
     }
   },

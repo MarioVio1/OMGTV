@@ -1,22 +1,6 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
-  Dettagli: Categoria='CALCIO', Evento='21:30 Deportivo Riestra - Lanus', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-
-Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Banfield - Defensa y Justicia', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-
-Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
-  Dettagli: Categoria='CALCIO', Evento='02:30 Union Santa Fe - Estudiantes', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-
-Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
-  Dettagli: Categoria='CALCIO', Evento='02:30 Velez Sarsfield - Tigre', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-
 Pagina Evento: https://thisnot.business/player.php?id=Rai2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
@@ -48,22 +32,6 @@ Pagina Evento: https://thisnot.business/player.php?id=RaiSport
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
-  Dettagli: Categoria='CALCIO', Evento='21:30 Deportivo Riestra - Lanus', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-
-Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Banfield - Defensa y Justicia', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-
-Pagina Evento: https://thisnot.business/player.php?id=ESPNP_AR
-  Dettagli: Categoria='CALCIO', Evento='02:30 Union Santa Fe - Estudiantes', Canale='ESPN (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-
-Pagina Evento: https://thisnot.business/player.php?id=TNTSP_ARG
-  Dettagli: Categoria='CALCIO', Evento='02:30 Velez Sarsfield - Tigre', Canale='TNT Sports (VPN Argentina)'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Beyond the Gates Season 1, Episode 90 - Beyond the Gates Season 1, Episode 90" tvg-name="20:00 Beyond the Gates Season 1, Episode 90 - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Live Shows", CBSNY USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-767.php
+
+#EXTINF:-1 tvg-id="2025 All-Star Red Carpet Show Live - 2025 All-Star Red Carpet Show Live" tvg-name="20:00 2025 All-Star Red Carpet Show Live - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Live Shows", MLB Network USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-399.php
+
 #EXTINF:-1 tvg-id="Asia - EAFF E-1 Football Championship - China vs Hong Kong" tvg-name="09:00 Asia - EAFF E-1 Football Championship : China vs Hong Kong - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
 

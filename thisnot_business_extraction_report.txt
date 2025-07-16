@@ -33,38 +33,6 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-Pagina Evento: https://thisnot.business/player.php?id=Rai2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RaiSport
-  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RaiSport
-  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RaiSport
-  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport1IT
   Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
@@ -72,6 +40,14 @@ Pagina Evento: https://thisnot.business/player.php?id=Eurosport1IT
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2IT
   Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+
+Pagina Evento: https://thisnot.business/player.php?id=ITA_SportUno
+  Dettagli: Categoria='NUOTO', Evento='04:00 Live', Canale='Sky Sport'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMix
+  Dettagli: Categoria='NUOTO', Evento='04:00 Live', Canale='Sky Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysportmix%29/master_2hr-aac.mpd&key_id=111551e04765ca479505e4ea0447b66e&key=eb88a080518c6b45f0c921cfbc9f92a4
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
   Dettagli: Categoria='MOTOMONDIALE', Evento='09:00 Moto3 - Prove Libere', Canale='Sky Sport'

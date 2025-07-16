@@ -1,9 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Beyond the Gates Season 1, Episode 90 - Beyond the Gates Season 1, Episode 90" tvg-name="20:00 Beyond the Gates Season 1, Episode 90 - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Live Shows", CBSNY USA
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-767.php
+#EXTINF:-1 tvg-id="2025 Summer Shootout at Charlotte Motor Speedway - 2025 Summer Shootout at Charlotte Motor Speedway" tvg-name="23:00 2025 Summer Shootout at Charlotte Motor Speedway - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="2025 All-Star Red Carpet Show Live - 2025 All-Star Red Carpet Show Live" tvg-name="20:00 2025 All-Star Red Carpet Show Live - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Live Shows", MLB Network USA
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-399.php
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Attica - World of Outlaws Sprint Cars Attica" tvg-name="00:15 World of Outlaws Sprint Cars Attica - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="2025 Richie Evans Remembered 61 at Utica-Rome Speedway - 2025 Richie Evans Remembered 61 at Utica-Rome Speedway" tvg-name="00:45 2025 Richie Evans Remembered 61 at Utica-Rome Speedway - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="2025 Southern Nationals at I-75 Raceway - 2025 Southern Nationals at I-75 Raceway" tvg-name="01:00 2025 Southern Nationals at I-75 Raceway - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil Late Model Dirt Series at Shelby County Speedway - 2025 Lucas Oil Late Model Dirt Series at Shelby County Speedway" tvg-name="01:00 2025 Lucas Oil Late Model Dirt Series at Shelby County Speedway - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="Husets Speedway Sprints - Husets Speedway Sprints" tvg-name="01:25 Husets Speedway Sprints - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="2025 IMCA King of the Creek at 141 Speedway - 2025 IMCA King of the Creek at 141 Speedway" tvg-name="01:30 2025 IMCA King of the Creek at 141 Speedway - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="The Ultimate Fighter 33 - The Ultimate Fighter 33" tvg-name="04:00 The Ultimate Fighter 33 - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", ESPN+ USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
 
 #EXTINF:-1 tvg-id="Asia - EAFF E-1 Football Championship - China vs Hong Kong" tvg-name="09:00 Asia - EAFF E-1 Football Championship : China vs Hong Kong - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
@@ -517,4 +535,679 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-72
 
 #EXTINF:-1 tvg-id="World Aquatics Championships '25 10km Open Water (M) Final - World Aquatics Championships '25 10km Open Water (M) Final" tvg-name="02:00 World Aquatics Championships '25 10km Open Water (M) Final - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Sport 5 Israel
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Charlotte vs DC United" tvg-name="01:30 Major League Soccer : Charlotte vs DC United - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Cincinnati vs Inter Miami" tvg-name="01:30 Major League Soccer : Cincinnati vs Inter Miami - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - New York RB vs New England" tvg-name="01:30 Major League Soccer : New York RB vs New England - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Orlando City SC vs New York City" tvg-name="01:30 Major League Soccer : Orlando City SC vs New York City - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Philadelphia Union vs CF Montréal" tvg-name="01:30 Major League Soccer : Philadelphia Union vs CF Montréal - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Houston Dynamo vs Vancouver Whitecaps" tvg-name="02:30 Major League Soccer : Houston Dynamo vs Vancouver Whitecaps - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Minnesota United vs Los Angeles FC" tvg-name="02:30 Major League Soccer : Minnesota United vs Los Angeles FC - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Nashville SC vs Columbus Crew" tvg-name="02:30 Major League Soccer : Nashville SC vs Columbus Crew - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - LA Galaxy vs Austin" tvg-name="04:30 Major League Soccer : LA Galaxy vs Austin - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Portland Timbers vs Real Salt Lake" tvg-name="04:30 Major League Soccer : Portland Timbers vs Real Salt Lake - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - SJ Earthquakes vs Dallas" tvg-name="04:30 Major League Soccer : SJ Earthquakes vs Dallas - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="Asia - EAFF E-1 Football Championship (women) - Japan vs China" tvg-name="09:00 Asia - EAFF E-1 Football Championship (women) : Japan vs China - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Ajax vs PAOK" tvg-name="14:00 Club Friendly : Ajax vs PAOK - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Fredrikstad vs Bodø / Glimt" tvg-name="18:00 Norway - Eliteserien : Fredrikstad vs Bodø / Glimt - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Fredrikstad vs Bodø / Glimt" tvg-name="18:00 Norway - Eliteserien : Fredrikstad vs Bodø / Glimt - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Auda vs Larne" tvg-name="18:00 UEFA Conference League : Auda vs Larne - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Latvia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Wolfsberger AC vs Beşiktaş" tvg-name="18:30 Club Friendly : Wolfsberger AC vs Beşiktaş - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Twente vs Kaizer Chiefs" tvg-name="19:00 Club Friendly : Twente vs Kaizer Chiefs - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Brighton & Hove Albion vs Stoke City" tvg-name="20:00 Club Friendly : Brighton & Hove Albion vs Stoke City - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Brighton & Hove Albion vs Stoke City" tvg-name="20:00 Club Friendly : Brighton & Hove Albion vs Stoke City - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Brighton & Hove Albion vs Stoke City" tvg-name="20:00 Club Friendly : Brighton & Hove Albion vs Stoke City - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Brighton & Hove Albion vs Stoke City" tvg-name="20:00 Club Friendly : Brighton & Hove Albion vs Stoke City - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Brighton & Hove Albion vs Stoke City" tvg-name="20:00 Club Friendly : Brighton & Hove Albion vs Stoke City - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Westerlo vs Panathinaikos" tvg-name="20:00 Club Friendly : Westerlo vs Panathinaikos - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 1 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-622.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Sporting CP vs Celtic" tvg-name="20:30 Club Friendly : Sporting CP vs Celtic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Celtic TV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Sporting CP vs Celtic" tvg-name="20:30 Club Friendly : Sporting CP vs Celtic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sporting TV Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-716.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Dinamo Minsk vs Ludogorets" tvg-name="20:45 UEFA Champions League : Dinamo Minsk vs Ludogorets - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
+
+#EXTINF:-1 tvg-id="Poland - I Liga - Wa vs Ru" tvg-name="20:45 Poland - I Liga : Wa vs Ru - 16/07/25" tvg-logo="https://counter.yadro.ru/hit?t52.6;r;s1280*720*24;uhttps%3A//guardacalcio.sbs/partite-streaming.html;hCalcioStreaming%20-%20Guarda%20Calcio%20in%20Streaming%20Gratis%20e%20Tutto%20lo%20Sport;0.6824426427953523" group-title="Calcio", beIN Sports MENA 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="Poland - I Liga - Wa vs Ru" tvg-name="20:45 Poland - I Liga : Wa vs Ru - 16/07/25" tvg-logo="https://counter.yadro.ru/hit?t52.6;r;s1280*720*24;uhttps%3A//guardacalcio.sbs/partite-streaming.html;hCalcioStreaming%20-%20Guarda%20Calcio%20in%20Streaming%20Gratis%20e%20Tutto%20lo%20Sport;0.6824426427953523" group-title="Calcio", beIN Sports MENA English 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Kilmarnock vs Livingston" tvg-name="20:45 Scottish League Cup : Kilmarnock vs Livingston - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 1 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-451.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Kilmarnock vs Livingston" tvg-name="20:45 Scottish League Cup : Kilmarnock vs Livingston - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-771.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Kilmarnock vs Livingston" tvg-name="20:45 Scottish League Cup : Kilmarnock vs Livingston - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Kilmarnock vs Livingston" tvg-name="20:45 Scottish League Cup : Kilmarnock vs Livingston - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-403.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Kilmarnock vs Livingston" tvg-name="20:45 Scottish League Cup : Kilmarnock vs Livingston - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-623.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Kilmarnock vs Livingston" tvg-name="20:45 Scottish League Cup : Kilmarnock vs Livingston - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Live Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Network USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC One UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-356.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Direkte Norway
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI 2 IT
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-851.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-365.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain (TDP)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport Czech
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1033.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", France 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-951.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Tipik Belgium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTSH Sport Albania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", YLE TV2 Finland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports Sweden
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 2 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HRT 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-925.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-798.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MáXimo 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Italy" tvg-name="21:00 UEFA Women's Euro : Norway vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Bolivia vs Brazil" tvg-name="23:00 Copa América Femenina : Bolivia vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Bolivia vs Brazil" tvg-name="23:00 Copa América Femenina : Bolivia vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Bolivia vs Brazil" tvg-name="23:00 Copa América Femenina : Bolivia vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Bolivia vs Brazil" tvg-name="23:00 Copa América Femenina : Bolivia vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DIRECTV Sports Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Bolivia vs Brazil" tvg-name="23:00 Copa América Femenina : Bolivia vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Bolivia vs Brazil" tvg-name="23:00 Copa América Femenina : Bolivia vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Palmeiras vs Mirassol" tvg-name="00:00 Brazil - Brasileirão : Palmeiras vs Mirassol - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Palmeiras vs Mirassol" tvg-name="00:00 Brazil - Brasileirão : Palmeiras vs Mirassol - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Palmeiras vs Mirassol" tvg-name="00:00 Brazil - Brasileirão : Palmeiras vs Mirassol - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", sportdigital1+ DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-798.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Bolívar vs Palestino" tvg-name="00:00 Copa Sudamericana : Bolívar vs Palestino - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="USL League One - Portland Hearts of Pine vs Greenville Triumph" tvg-name="00:30 USL League One : Portland Hearts of Pine vs Greenville Triumph - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NESN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-762.php
+
+#EXTINF:-1 tvg-id="USL League One - Westchester SC vs Spokane Velocity" tvg-name="01:00 USL League One : Westchester SC vs Spokane Velocity - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MSG USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-765.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Santos vs Flamengo" tvg-name="01:00 Brazil - Brasileirão : Santos vs Flamengo - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Santos vs Flamengo" tvg-name="01:00 Brazil - Brasileirão : Santos vs Flamengo - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Santos vs Flamengo" tvg-name="01:00 Brazil - Brasileirão : Santos vs Flamengo - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Atlanta United vs Chicago Fire" tvg-name="01:30 Major League Soccer : Atlanta United vs Chicago Fire - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Venezuela vs Colombia" tvg-name="02:00 Copa América Femenina : Venezuela vs Colombia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Venezuela vs Colombia" tvg-name="02:00 Copa América Femenina : Venezuela vs Colombia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Caracol TV Colombia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Venezuela vs Colombia" tvg-name="02:00 Copa América Femenina : Venezuela vs Colombia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV3 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-454.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Venezuela vs Colombia" tvg-name="02:00 Copa América Femenina : Venezuela vs Colombia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DIRECTV Sports Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Venezuela vs Colombia" tvg-name="02:00 Copa América Femenina : Venezuela vs Colombia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Botafogo vs Vitória" tvg-name="02:30 Brazil - Brasileirão : Botafogo vs Vitória - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - RB Bragantino vs São Paulo" tvg-name="02:30 Brazil - Brasileirão : RB Bragantino vs São Paulo - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - RB Bragantino vs São Paulo" tvg-name="02:30 Brazil - Brasileirão : RB Bragantino vs São Paulo - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", sportdigital1+ DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-379.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-624.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Alianza Lima vs Grêmio" tvg-name="02:30 Copa Sudamericana : Alianza Lima vs Grêmio - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - San Antonio Bulo Bulo vs Once Caldas" tvg-name="02:30 Copa Sudamericana : San Antonio Bulo Bulo vs Once Caldas - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - San Antonio Bulo Bulo vs Once Caldas" tvg-name="02:30 Copa Sudamericana : San Antonio Bulo Bulo vs Once Caldas - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-94.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - San Antonio Bulo Bulo vs Once Caldas" tvg-name="02:30 Copa Sudamericana : San Antonio Bulo Bulo vs Once Caldas - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Liga MX - América vs Tijuana" tvg-name="03:00 Liga MX : América vs Tijuana - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="Liga MX - América vs Tijuana" tvg-name="03:00 Liga MX : América vs Tijuana - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UniMas USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-133.php
+
+#EXTINF:-1 tvg-id="Seattle Sounders FC vs Colorado Rapids - Seattle Sounders FC vs Colorado Rapids" tvg-name="04:00 Seattle Sounders FC vs Colorado Rapids - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Seattle Sounders FC vs Colorado Rapids - Seattle Sounders FC vs Colorado Rapids" tvg-name="04:00 Seattle Sounders FC vs Colorado Rapids - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - San Diego vs Toronto FC" tvg-name="04:30 Major League Soccer : San Diego vs Toronto FC - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - San Diego vs Toronto FC" tvg-name="04:30 Major League Soccer : San Diego vs Toronto FC - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - San Diego vs Toronto FC" tvg-name="04:30 Major League Soccer : San Diego vs Toronto FC - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RDS
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
+
+#EXTINF:-1 tvg-id="Liga MX - Santos Laguna vs Toluca" tvg-name="05:05 Liga MX : Santos Laguna vs Toluca - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="Liga MX - Santos Laguna vs Toluca" tvg-name="05:05 Liga MX : Santos Laguna vs Toluca - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UniMas
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-133.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-454.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 PLUS Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-474.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-713.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="NASCAR Canada Series Course Sutherland Speedway - NASCAR Canada Series Course Sutherland Speedway" tvg-name="02:00 NASCAR Canada Series Course Sutherland Speedway - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TVA Sports
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-833.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="02:00 All Elite Wrestling: Dynamite - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", TBS USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-336.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="02:00 All Elite Wrestling: Dynamite - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", TSN2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-112.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="02:00 All Elite Wrestling: Dynamite - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Fox Sports Premium MX
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-830.php
+
+#EXTINF:-1 tvg-id="Asia Cup Women - Philippines W vs Lebanon W" tvg-name="07:30 Asia Cup Women : Philippines W vs Lebanon W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Asia Cup Women - South Korea W vs Indonesia W" tvg-name="10:30 Asia Cup Women : South Korea W vs Indonesia W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Asia Cup Women - China W vs New Zealand W" tvg-name="13:30 Asia Cup Women : China W vs New Zealand W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="Asia Cup Women - China W vs New Zealand W" tvg-name="13:30 Asia Cup Women : China W vs New Zealand W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 9 Qatar HD
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
+
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream vs Chicago Sky" tvg-name="18:00 WNBA : Atlanta Dream vs Chicago Sky - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury vs Minnesota Lynx" tvg-name="19:00 WNBA : Phoenix Mercury vs Minnesota Lynx - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury vs Minnesota Lynx" tvg-name="19:00 WNBA : Phoenix Mercury vs Minnesota Lynx - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network North
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Seattle Storm" tvg-name="21:00 WNBA : Golden State Valkyries W vs Seattle Storm - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Cleveland Cavaliers vs Sacramento Kings" tvg-name="21:30 NBA Las Vegas Summer League : Cleveland Cavaliers vs Sacramento Kings - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBC Sports California
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-755.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Cleveland Cavaliers vs Sacramento Kings" tvg-name="21:30 NBA Las Vegas Summer League : Cleveland Cavaliers vs Sacramento Kings - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs Phoenix Suns" tvg-name="23:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs Phoenix Suns - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs Phoenix Suns" tvg-name="23:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs Phoenix Suns - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network North
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs Phoenix Suns" tvg-name="23:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs Phoenix Suns - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Milwaukee Bucks" tvg-name="23:30 NBA Las Vegas Summer League : Chicago Bulls vs Milwaukee Bucks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Milwaukee Bucks" tvg-name="23:30 NBA Las Vegas Summer League : Chicago Bulls vs Milwaukee Bucks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Wisconsin
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-907.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", YES USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-763.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportsnet One
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-411.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Florida
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-892.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CBS Sports Network
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FOX USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FOXNY USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces vs Dallas Wings" tvg-name="01:30 WNBA : Las Vegas Aces vs Dallas Wings - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBC Sports Philadelphia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-777.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN4 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportsnet One
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-411.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Oklahoma
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-900.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs Washington Wizards" tvg-name="04:00 NBA Las Vegas Summer League : Utah Jazz vs Washington Wizards - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs Washington Wizards" tvg-name="04:00 NBA Las Vegas Summer League : Utah Jazz vs Washington Wizards - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Monumental Sports Network
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-778.php
+
+#EXTINF:-1 tvg-id="Padel - Málaga P1 - Premier Padel" tvg-name="16:00 Padel: Málaga P1 - Premier Padel - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV6 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="Padel - Málaga P1 - Premier Padel" tvg-name="16:00 Padel: Málaga P1 - Premier Padel - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 1 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Padel - Málaga P1 - Premier Padel" tvg-name="18:00 Padel: Málaga P1 - Premier Padel - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV6 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="Padel - Málaga P1 - Premier Padel" tvg-name="18:00 Padel: Málaga P1 - Premier Padel - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 1 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Padel - Málaga P1 - Premier Padel" tvg-name="20:00 Padel: Málaga P1 - Premier Padel - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV6 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="Padel - Málaga P1 - Premier Padel" tvg-name="20:00 Padel: Málaga P1 - Premier Padel - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 1 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Brazil" tvg-name="05:00 Nations League : Argentina vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Brazil" tvg-name="05:00 Nations League : Argentina vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Brazil" tvg-name="05:00 Nations League : Argentina vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkey vs USA" tvg-name="08:30 Nations League : Turkey vs USA - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkey vs USA" tvg-name="08:30 Nations League : Turkey vs USA - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkey vs USA" tvg-name="08:30 Nations League : Turkey vs USA - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Japan" tvg-name="12:20 Nations League : Germany vs Japan - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Japan" tvg-name="12:20 Nations League : Germany vs Japan - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 1 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Japan" tvg-name="12:20 Nations League : Germany vs Japan - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Netherlands" tvg-name="13:00 Nations League : Ukraine vs Netherlands - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 3 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Netherlands" tvg-name="13:00 Nations League : Ukraine vs Netherlands - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs France" tvg-name="13:00 Nations League : China vs France - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967635_tour-de-france-stage-2.jpg" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs France" tvg-name="13:00 Nations League : China vs France - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967635_tour-de-france-stage-2.jpg" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs France" tvg-name="13:00 Nations League : China vs France - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967635_tour-de-france-stage-2.jpg" group-title="Pallavolo", Sport Klub 4 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 1 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 4 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Cuba" tvg-name="16:30 Nations League : Bulgaria vs Cuba - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Cuba" tvg-name="16:30 Nations League : Bulgaria vs Cuba - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Cuba" tvg-name="16:30 Nations League : Bulgaria vs Cuba - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Arena Premium 2 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", SporTV2 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Pallavolo", Sport Klub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Slovenia" tvg-name="20:30 Nations League : Canada vs Slovenia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Slovenia" tvg-name="20:30 Nations League : Canada vs Slovenia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 3 Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Slovenia" tvg-name="20:30 Nations League : Canada vs Slovenia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
+
+#EXTINF:-1 tvg-id="World Championship - Italy vs South Africa" tvg-name="07:45 World Championship : Italy vs South Africa - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Rai Sport 1 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="World Championship - Italy vs South Africa" tvg-name="07:45 World Championship : Italy vs South Africa - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", SuperSport Variety 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-417.php
+
+#EXTINF:-1 tvg-id="World Championship - Greece vs Croatia" tvg-name="11:30 World Championship : Greece vs Croatia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Rai Sport 1 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="World Championship - Greece vs Croatia" tvg-name="11:30 World Championship : Greece vs Croatia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", HRT 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="World Championship - Greece vs Croatia" tvg-name="11:30 World Championship : Greece vs Croatia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", M4 Sport Hungary
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="World Championship - Greece vs Croatia" tvg-name="11:30 World Championship : Greece vs Croatia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Match Igra Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="World Championship - Spain vs Hungary" tvg-name="14:45 World Championship : Spain vs Hungary - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Rai Sport 1 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="World Championship - Spain vs Hungary" tvg-name="14:45 World Championship : Spain vs Hungary - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", M4 Sport Hungary
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="World Championship - Spain vs Hungary" tvg-name="14:45 World Championship : Spain vs Hungary - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Teledeporte Spain (TDP)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="World Championship - Spain vs Hungary" tvg-name="14:45 World Championship : Spain vs Hungary - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Match Igra Russia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
 

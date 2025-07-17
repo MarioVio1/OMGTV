@@ -1,13 +1,25 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Rai2" tvg-name="CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA MERCOLEDI 16 LUGLIO 21:00 Norvegia - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-id="Rai1" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 21:00 Norvegia - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="RTE2" tvg-name="CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA MERCOLEDI 16 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
+#EXTINF:-1 tvg-id="RTE2" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-#EXTINF:-1 tvg-id="RaiSport" tvg-name="CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA MERCOLEDI 16 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
+#EXTINF:-1 tvg-id="RaiSport" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-id="UNIMAS" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 05:05 Santos Laguna - Toluca" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Unimas (VPN USA) (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+#EXTINF:-1 tvg-id="Premiere3_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 02:30 RB Bragantino - Sao Paulo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
+
+#EXTINF:-1 tvg-id="Premiere2_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 01:00 Santos - Flamengo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
+
+#EXTINF:-1 tvg-id="Premiere4_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 17 LUGLIO 02:30 Botafogo - Vitoria" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98
 
 #EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750

@@ -1,22 +1,22 @@
 {
-  "https://thisnot.business/player.php?id=Rai2": {
-    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+  "https://thisnot.business/player.php?id=Rai1": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA",
-      "date": "MERCOLEDI 16 LUGLIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
       "event": "21:00 Norvegia - Italia",
       "channel": "Rai",
       "language": "",
-      "url": "https://thisnot.business/player.php?id=Rai2"
+      "url": "https://thisnot.business/player.php?id=Rai1"
     }
   },
   "https://thisnot.business/player.php?id=RTE2": {
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA",
-      "date": "MERCOLEDI 16 LUGLIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
       "event": "21:00 Francia - Germania",
       "channel": "RTE",
       "language": "it",
@@ -27,12 +27,60 @@
     "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE, QUARTI - SVIZZERA",
-      "date": "MERCOLEDI 16 LUGLIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
       "event": "21:00 Francia - Germania",
       "channel": "Rai",
       "language": "ie",
       "url": "https://thisnot.business/player.php?id=RaiSport"
+    }
+  },
+  "https://thisnot.business/player.php?id=UNIMAS": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
+      "event": "05:05 Santos Laguna - Toluca",
+      "channel": "Unimas (VPN USA)",
+      "language": "es",
+      "url": "https://thisnot.business/player.php?id=UNIMAS"
+    }
+  },
+  "https://thisnot.business/player.php?id=Premiere3_BR": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
+    "info": {
+      "category": "CALCIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
+      "event": "02:30 RB Bragantino - Sao Paulo",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere3_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=Premiere2_BR": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
+    "info": {
+      "category": "CALCIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
+      "event": "01:00 Santos - Flamengo",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere2_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=Premiere4_BR": {
+    "proxy_url": "https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
+    "info": {
+      "category": "CALCIO",
+      "title": "BRASILEIRAO - BRASILE",
+      "date": "GIOVEDI 17 LUGLIO",
+      "event": "02:30 Botafogo - Vitoria",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere4_BR"
     }
   },
   "https://thisnot.business/player.php?id=Eurosport1IT": {
@@ -43,7 +91,7 @@
       "date": "SABATO 5 LUGLIO - DOMENICA 27 LUGLIO",
       "event": "13:00 Live",
       "channel": "Eurosport",
-      "language": "ie",
+      "language": "br",
       "url": "https://thisnot.business/player.php?id=Eurosport1IT"
     }
   },

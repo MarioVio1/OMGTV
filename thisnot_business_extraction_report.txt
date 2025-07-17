@@ -1,9 +1,9 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=Rai2
+Pagina Evento: https://thisnot.business/player.php?id=Rai1
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='RTE'
@@ -32,6 +32,142 @@ Pagina Evento: https://thisnot.business/player.php?id=RaiSport
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=UNIMAS
+  Dettagli: Categoria='CALCIO', Evento='03:00 America - Tijuana', Canale='Unimas (VPN USA)'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=UNIMAS
+  Dettagli: Categoria='CALCIO', Evento='05:05 Santos Laguna - Toluca', Canale='Unimas (VPN USA)'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere3_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Palmeiras - Mirassol', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:00 Santos - Flamengo', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
+  Dettagli: Categoria='CALCIO', Evento='02:30 Botafogo - Vitoria', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere3_BR
+  Dettagli: Categoria='CALCIO', Evento='02:30 RB Bragantino - Sao Paulo', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
+
+Pagina Evento: https://thisnot.business/player.php?id=Rai1
+  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=UNIMAS
+  Dettagli: Categoria='CALCIO', Evento='03:00 America - Tijuana', Canale='Unimas (VPN USA)'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=UNIMAS
+  Dettagli: Categoria='CALCIO', Evento='05:05 Santos Laguna - Toluca', Canale='Unimas (VPN USA)'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere3_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Palmeiras - Mirassol', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:00 Santos - Flamengo', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
+  Dettagli: Categoria='CALCIO', Evento='02:30 Botafogo - Vitoria', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere3_BR
+  Dettagli: Categoria='CALCIO', Evento='02:30 RB Bragantino - Sao Paulo', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
+
+Pagina Evento: https://thisnot.business/player.php?id=Rai1
+  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Norvegia - Italia', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Svezia - Inghilterra', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Svizzera', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=RaiSport
+  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='Rai'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=RTE2
+  Dettagli: Categoria='CALCIO', Evento='21:00 Francia - Germania', Canale='RTE'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+Pagina Evento: https://thisnot.business/player.php?id=UNIMAS
+  Dettagli: Categoria='CALCIO', Evento='03:00 America - Tijuana', Canale='Unimas (VPN USA)'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=UNIMAS
+  Dettagli: Categoria='CALCIO', Evento='05:05 Santos Laguna - Toluca', Canale='Unimas (VPN USA)'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere3_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Palmeiras - Mirassol', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere2_BR
+  Dettagli: Categoria='CALCIO', Evento='01:00 Santos - Flamengo', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere4_BR
+  Dettagli: Categoria='CALCIO', Evento='02:30 Botafogo - Vitoria', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98
+
+Pagina Evento: https://thisnot.business/player.php?id=Premiere3_BR
+  Dettagli: Categoria='CALCIO', Evento='02:30 RB Bragantino - Sao Paulo', Canale='Premiere'
+  Stato Estrazione: OK - Proxy generato: https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport1IT
   Dettagli: Categoria='CICLISMO', Evento='13:00 Live', Canale='Eurosport'

@@ -1,13 +1,31 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="RaiSport" tvg-name="AMICHEVOLI VENERDI 18 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
+#EXTINF:-1 tvg-id="RaiSport" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1 tvg-id="RTE2" tvg-name="AMICHEVOLI VENERDI 18 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
+#EXTINF:-1 tvg-id="RTE2" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 21:00 Francia - Germania" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="AMICHEVOLI VENERDI 18 LUGLIO 19:30 Como - Lille" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 19:30 Como - Lille" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+
+#EXTINF:-1 tvg-id="ArenaSP2_ME" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 17:30 Wisla Plock - Korona Kielce" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_2/default/index.mpd&key_id=50e2b92181a35cd9a603bf398660e5c7&key=0779f9325ccbb29b5926793236a1537d,dc5ff1824cd650569eb2252dce236b67:55e89387b90d67f0fe7b8f7845c3b9e6,39a06f8583d25d1dbf62a4cee3170342:5976017af75ba543275891b960e403ab
+
+#EXTINF:-1 tvg-id="ArenaS6_ME" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 20:30 CSU Craiova - SCM Argesul Pitesti" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_6/default/index.mpd&key_id=4027767195c75c43b4467c8b201f2bb1&key=92ea546360c6d3e57a476fab293cb5c8,7469ff6e477e53b68dc0579914b245f0:ef31f822ff8011e0773f0c14673744a1,0e66a3e432e25bdf802316df8583c596:f0c31e7787e533ef4cebd586b44b3484
+
+#EXTINF:-1 tvg-id="ArenaS2_ME" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 17:30 Universitatea Cluj - UTA Arad" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_2/default/index.mpd&key_id=16c25e879df45ec298524e7d21404a98&key=80fe93c754faaebc8e8bdbfad7cfc107,4bd0cff22dc85ea5b225d7f9a952e965:acf2c5ff11f481972e0f5ceb979b25bb,0e496cb5280256678de0ac8c4a3f6eac:b70540aeb2f3609c9c3b69bffed51f50
+
+#EXTINF:-1 tvg-id="ArenaS4_ME" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 20:30 Petrolul 52 - FCSB" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_4/default/index.mpd&key_id=83bbb54e895350c8b0a427fd37708c2d&key=6b8697bea26aeea2295f958893b5ae15,7e6b68480d655385925932de025210c9:ca2b051c5333722a1af9bf3815bcc76c,0208912a7ff35a8faec820a2e7ce1a27:fdd2b16fdbf20b29c161008b71c4f7c8
+
+#EXTINF:-1 tvg-id="TNTSP_ARG" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 21:45 Newell's Old Boys - Banfield" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT (VPN ARGENTINA/URUGUAY) (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+
+#EXTINF:-1 tvg-id="ESPNP_ARG" tvg-name="SUPERLIGA - ARGENTINA SABATO 19 LUGLIO 21:45 Tigre - Argentinos Juniors" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (VPN ARGENTINA/URUGUAY) (TN)
+https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
 
 #EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
@@ -15,9 +33,6 @@ https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https
 #EXTINF:-1 tvg-id="Eurosport2IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 
-#EXTINF:-1 tvg-id="ZiggoSP3" tvg-name="GP BRNO - REPUBBLICA CECA VENERDI 18 LUGLIO 15:00 MotoGP - Prove" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
-https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013401:UTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205641752%26RTS%3D1717205641%26from%3D16%26hms_devid%3D538%26online%3D1717205641%26mag_hms%3D538%26ck%3DNGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg%3D&key_id=4dbea4b5713a4aa1ae3a2544cd522fc7&key=a8323ea99b2d6200a48e1bc27322d548
-
-#EXTINF:-1 tvg-id="ZiggoSP1" tvg-name="GP BRNO - REPUBBLICA CECA VENERDI 18 LUGLIO 14:00 MotoGP - Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
+#EXTINF:-1 tvg-id="ZiggoSP1" tvg-name="GP BRNO - REPUBBLICA CECA SABATO 19 LUGLIO 14:00 MotoGP - Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
 https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26RTS%3D1717205309%26from%3D11%26hms_devid%3D1008%26online%3D1717205309%26mag_hms%3D1008%2C311%2C305%26_%3D1717205322621%26ck%3DZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM%3D&key_id=ef34ae91b4f2415e8439b2ad105e7488&key=243248d8de1ff8c7c587ee2057317523
 

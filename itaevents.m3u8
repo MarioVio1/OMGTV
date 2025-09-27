@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PFL MENA 3 - 2025 Semifinals" tvg-name="17:00 PFL MENA 3: 2025 Semifinals - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", DAZN PPV
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-218.php
-
 #EXTINF:-1 tvg-id="Boxing - Dorin Krasmaru vs Harvey Dykes" tvg-name="17:30 Boxing : Dorin Krasmaru vs Harvey Dykes - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-219.php
 
